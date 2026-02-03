@@ -1,0 +1,1069 @@
+Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,AEB,Seccio_Censal,Valor,Data_Referencia,_id
+1,Ciutat Vella,1,el Raval,1,1001,1309,2024-01-01T00:00:00,1
+1,Ciutat Vella,1,el Raval,1,1002,1282,2024-01-01T00:00:00,2
+1,Ciutat Vella,1,el Raval,2,1003,3500,2024-01-01T00:00:00,3
+1,Ciutat Vella,1,el Raval,2,1004,2999,2024-01-01T00:00:00,4
+1,Ciutat Vella,1,el Raval,3,1005,2326,2024-01-01T00:00:00,5
+1,Ciutat Vella,1,el Raval,3,1006,1617,2024-01-01T00:00:00,6
+1,Ciutat Vella,1,el Raval,3,1007,2003,2024-01-01T00:00:00,7
+1,Ciutat Vella,1,el Raval,4,1008,3203,2024-01-01T00:00:00,8
+1,Ciutat Vella,1,el Raval,4,1009,2117,2024-01-01T00:00:00,9
+1,Ciutat Vella,1,el Raval,4,1010,2449,2024-01-01T00:00:00,10
+1,Ciutat Vella,1,el Raval,5,1011,3091,2024-01-01T00:00:00,11
+1,Ciutat Vella,1,el Raval,5,1012,1914,2024-01-01T00:00:00,12
+1,Ciutat Vella,1,el Raval,5,1013,1471,2024-01-01T00:00:00,13
+1,Ciutat Vella,1,el Raval,6,1014,1786,2024-01-01T00:00:00,14
+1,Ciutat Vella,1,el Raval,6,1015,2334,2024-01-01T00:00:00,15
+1,Ciutat Vella,1,el Raval,6,1016,2089,2024-01-01T00:00:00,16
+1,Ciutat Vella,1,el Raval,6,1017,2523,2024-01-01T00:00:00,17
+1,Ciutat Vella,1,el Raval,7,1018,1550,2024-01-01T00:00:00,18
+1,Ciutat Vella,1,el Raval,7,1019,2827,2024-01-01T00:00:00,19
+1,Ciutat Vella,1,el Raval,7,1020,2325,2024-01-01T00:00:00,20
+1,Ciutat Vella,1,el Raval,8,1021,2219,2024-01-01T00:00:00,21
+1,Ciutat Vella,2,el Barri Gòtic,9,1022,1749,2024-01-01T00:00:00,22
+1,Ciutat Vella,2,el Barri Gòtic,9,1023,2040,2024-01-01T00:00:00,23
+1,Ciutat Vella,2,el Barri Gòtic,10,1025,1377,2024-01-01T00:00:00,24
+1,Ciutat Vella,2,el Barri Gòtic,10,1026,13115,2024-01-01T00:00:00,25
+1,Ciutat Vella,2,el Barri Gòtic,10,1027,1522,2024-01-01T00:00:00,26
+1,Ciutat Vella,2,el Barri Gòtic,11,1028,1939,2024-01-01T00:00:00,27
+1,Ciutat Vella,2,el Barri Gòtic,11,1029,1449,2024-01-01T00:00:00,28
+1,Ciutat Vella,2,el Barri Gòtic,12,1030,2484,2024-01-01T00:00:00,29
+1,Ciutat Vella,2,el Barri Gòtic,12,1031,1547,2024-01-01T00:00:00,30
+1,Ciutat Vella,3,la Barceloneta,13,1032,1735,2024-01-01T00:00:00,31
+1,Ciutat Vella,3,la Barceloneta,13,1033,1088,2024-01-01T00:00:00,32
+1,Ciutat Vella,3,la Barceloneta,13,1034,972,2024-01-01T00:00:00,33
+1,Ciutat Vella,3,la Barceloneta,14,1035,1187,2024-01-01T00:00:00,34
+1,Ciutat Vella,3,la Barceloneta,14,1036,1191,2024-01-01T00:00:00,35
+1,Ciutat Vella,3,la Barceloneta,15,1037,1284,2024-01-01T00:00:00,36
+1,Ciutat Vella,3,la Barceloneta,15,1038,1461,2024-01-01T00:00:00,37
+1,Ciutat Vella,3,la Barceloneta,15,1039,1310,2024-01-01T00:00:00,38
+1,Ciutat Vella,3,la Barceloneta,15,1040,1080,2024-01-01T00:00:00,39
+1,Ciutat Vella,3,la Barceloneta,15,1041,1475,2024-01-01T00:00:00,40
+1,Ciutat Vella,3,la Barceloneta,15,1042,1743,2024-01-01T00:00:00,41
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,1637,2024-01-01T00:00:00,42
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,1462,2024-01-01T00:00:00,43
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,1971,2024-01-01T00:00:00,44
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,1860,2024-01-01T00:00:00,45
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,1743,2024-01-01T00:00:00,46
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,2097,2024-01-01T00:00:00,47
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,1521,2024-01-01T00:00:00,48
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,1604,2024-01-01T00:00:00,49
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,1763,2024-01-01T00:00:00,50
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,2396,2024-01-01T00:00:00,51
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,1848,2024-01-01T00:00:00,52
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,1274,2024-01-01T00:00:00,53
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,1297,2024-01-01T00:00:00,54
+2,Eixample,5,el Fort Pienc,20,2001,1351,2024-01-01T00:00:00,55
+2,Eixample,5,el Fort Pienc,20,2002,6059,2024-01-01T00:00:00,56
+2,Eixample,5,el Fort Pienc,20,2003,1180,2024-01-01T00:00:00,57
+2,Eixample,5,el Fort Pienc,20,2004,1494,2024-01-01T00:00:00,58
+2,Eixample,5,el Fort Pienc,20,2005,2051,2024-01-01T00:00:00,59
+2,Eixample,5,el Fort Pienc,20,2006,1661,2024-01-01T00:00:00,60
+2,Eixample,5,el Fort Pienc,20,2007,1209,2024-01-01T00:00:00,61
+2,Eixample,5,el Fort Pienc,20,2008,1945,2024-01-01T00:00:00,62
+2,Eixample,5,el Fort Pienc,20,2009,1794,2024-01-01T00:00:00,63
+2,Eixample,5,el Fort Pienc,21,2010,1235,2024-01-01T00:00:00,64
+2,Eixample,5,el Fort Pienc,21,2011,1145,2024-01-01T00:00:00,65
+2,Eixample,5,el Fort Pienc,21,2012,1604,2024-01-01T00:00:00,66
+2,Eixample,5,el Fort Pienc,21,2013,1163,2024-01-01T00:00:00,67
+2,Eixample,5,el Fort Pienc,22,2014,1371,2024-01-01T00:00:00,68
+2,Eixample,5,el Fort Pienc,22,2015,1608,2024-01-01T00:00:00,69
+2,Eixample,5,el Fort Pienc,22,2016,1861,2024-01-01T00:00:00,70
+2,Eixample,5,el Fort Pienc,22,2017,1950,2024-01-01T00:00:00,71
+2,Eixample,5,el Fort Pienc,22,2018,1863,2024-01-01T00:00:00,72
+2,Eixample,5,el Fort Pienc,22,2019,1969,2024-01-01T00:00:00,73
+2,Eixample,5,el Fort Pienc,22,2020,1606,2024-01-01T00:00:00,74
+2,Eixample,6,la Sagrada Família,23,2021,1529,2024-01-01T00:00:00,75
+2,Eixample,6,la Sagrada Família,23,2022,1345,2024-01-01T00:00:00,76
+2,Eixample,6,la Sagrada Família,23,2023,1033,2024-01-01T00:00:00,77
+2,Eixample,6,la Sagrada Família,23,2024,1175,2024-01-01T00:00:00,78
+2,Eixample,6,la Sagrada Família,24,2025,1134,2024-01-01T00:00:00,79
+2,Eixample,6,la Sagrada Família,24,2026,2074,2024-01-01T00:00:00,80
+2,Eixample,6,la Sagrada Família,24,2027,2143,2024-01-01T00:00:00,81
+2,Eixample,6,la Sagrada Família,24,2028,2073,2024-01-01T00:00:00,82
+2,Eixample,6,la Sagrada Família,24,2029,1246,2024-01-01T00:00:00,83
+2,Eixample,6,la Sagrada Família,24,2030,1413,2024-01-01T00:00:00,84
+2,Eixample,6,la Sagrada Família,24,2031,1036,2024-01-01T00:00:00,85
+2,Eixample,6,la Sagrada Família,24,2032,1223,2024-01-01T00:00:00,86
+2,Eixample,6,la Sagrada Família,25,2033,1177,2024-01-01T00:00:00,87
+2,Eixample,6,la Sagrada Família,25,2034,1211,2024-01-01T00:00:00,88
+2,Eixample,6,la Sagrada Família,25,2035,1339,2024-01-01T00:00:00,89
+2,Eixample,6,la Sagrada Família,25,2036,1215,2024-01-01T00:00:00,90
+2,Eixample,6,la Sagrada Família,25,2037,1144,2024-01-01T00:00:00,91
+2,Eixample,6,la Sagrada Família,25,2038,1528,2024-01-01T00:00:00,92
+2,Eixample,6,la Sagrada Família,25,2039,1876,2024-01-01T00:00:00,93
+2,Eixample,6,la Sagrada Família,25,2040,1783,2024-01-01T00:00:00,94
+2,Eixample,6,la Sagrada Família,26,2041,1693,2024-01-01T00:00:00,95
+2,Eixample,6,la Sagrada Família,26,2042,1708,2024-01-01T00:00:00,96
+2,Eixample,6,la Sagrada Família,26,2043,1514,2024-01-01T00:00:00,97
+2,Eixample,6,la Sagrada Família,26,2044,1326,2024-01-01T00:00:00,98
+2,Eixample,6,la Sagrada Família,26,2045,1169,2024-01-01T00:00:00,99
+2,Eixample,6,la Sagrada Família,26,2046,2002,2024-01-01T00:00:00,100
+2,Eixample,6,la Sagrada Família,26,2047,1991,2024-01-01T00:00:00,101
+2,Eixample,6,la Sagrada Família,26,2048,1311,2024-01-01T00:00:00,102
+2,Eixample,6,la Sagrada Família,27,2049,2087,2024-01-01T00:00:00,103
+2,Eixample,6,la Sagrada Família,27,2050,1686,2024-01-01T00:00:00,104
+2,Eixample,6,la Sagrada Família,27,2051,1926,2024-01-01T00:00:00,105
+2,Eixample,6,la Sagrada Família,27,2052,1824,2024-01-01T00:00:00,106
+2,Eixample,6,la Sagrada Família,27,2053,1899,2024-01-01T00:00:00,107
+2,Eixample,6,la Sagrada Família,27,2054,1992,2024-01-01T00:00:00,108
+2,Eixample,7,la Dreta de l'Eixample,28,2055,1837,2024-01-01T00:00:00,109
+2,Eixample,7,la Dreta de l'Eixample,28,2056,1540,2024-01-01T00:00:00,110
+2,Eixample,7,la Dreta de l'Eixample,28,2057,1254,2024-01-01T00:00:00,111
+2,Eixample,7,la Dreta de l'Eixample,28,2058,1449,2024-01-01T00:00:00,112
+2,Eixample,7,la Dreta de l'Eixample,28,2059,1736,2024-01-01T00:00:00,113
+2,Eixample,7,la Dreta de l'Eixample,28,2060,1683,2024-01-01T00:00:00,114
+2,Eixample,7,la Dreta de l'Eixample,29,2061,1384,2024-01-01T00:00:00,115
+2,Eixample,7,la Dreta de l'Eixample,29,2062,1579,2024-01-01T00:00:00,116
+2,Eixample,7,la Dreta de l'Eixample,29,2063,1226,2024-01-01T00:00:00,117
+2,Eixample,7,la Dreta de l'Eixample,29,2064,1298,2024-01-01T00:00:00,118
+2,Eixample,7,la Dreta de l'Eixample,29,2065,1817,2024-01-01T00:00:00,119
+2,Eixample,7,la Dreta de l'Eixample,30,2066,1757,2024-01-01T00:00:00,120
+2,Eixample,7,la Dreta de l'Eixample,30,2067,1715,2024-01-01T00:00:00,121
+2,Eixample,7,la Dreta de l'Eixample,30,2068,1696,2024-01-01T00:00:00,122
+2,Eixample,7,la Dreta de l'Eixample,30,2069,1417,2024-01-01T00:00:00,123
+2,Eixample,7,la Dreta de l'Eixample,31,2070,1269,2024-01-01T00:00:00,124
+2,Eixample,7,la Dreta de l'Eixample,31,2071,1634,2024-01-01T00:00:00,125
+2,Eixample,7,la Dreta de l'Eixample,31,2072,1249,2024-01-01T00:00:00,126
+2,Eixample,7,la Dreta de l'Eixample,32,2073,1695,2024-01-01T00:00:00,127
+2,Eixample,7,la Dreta de l'Eixample,32,2074,1291,2024-01-01T00:00:00,128
+2,Eixample,7,la Dreta de l'Eixample,32,2075,1213,2024-01-01T00:00:00,129
+2,Eixample,7,la Dreta de l'Eixample,32,2076,1671,2024-01-01T00:00:00,130
+2,Eixample,7,la Dreta de l'Eixample,33,2077,1810,2024-01-01T00:00:00,131
+2,Eixample,7,la Dreta de l'Eixample,34,2078,1428,2024-01-01T00:00:00,132
+2,Eixample,7,la Dreta de l'Eixample,34,2079,1487,2024-01-01T00:00:00,133
+2,Eixample,7,la Dreta de l'Eixample,35,2080,1606,2024-01-01T00:00:00,134
+2,Eixample,7,la Dreta de l'Eixample,35,2081,2170,2024-01-01T00:00:00,135
+2,Eixample,7,la Dreta de l'Eixample,36,2082,1002,2024-01-01T00:00:00,136
+2,Eixample,7,la Dreta de l'Eixample,36,2083,1974,2024-01-01T00:00:00,137
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,2116,2024-01-01T00:00:00,138
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,1487,2024-01-01T00:00:00,139
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,1408,2024-01-01T00:00:00,140
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,1414,2024-01-01T00:00:00,141
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,1689,2024-01-01T00:00:00,142
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,1876,2024-01-01T00:00:00,143
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,1801,2024-01-01T00:00:00,144
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,2807,2024-01-01T00:00:00,145
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,1780,2024-01-01T00:00:00,146
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,1694,2024-01-01T00:00:00,147
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,1512,2024-01-01T00:00:00,148
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,1574,2024-01-01T00:00:00,149
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,1439,2024-01-01T00:00:00,150
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,1120,2024-01-01T00:00:00,151
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,1517,2024-01-01T00:00:00,152
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,1566,2024-01-01T00:00:00,153
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,1376,2024-01-01T00:00:00,154
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,2236,2024-01-01T00:00:00,155
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,1369,2024-01-01T00:00:00,156
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,1687,2024-01-01T00:00:00,157
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,1203,2024-01-01T00:00:00,158
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,2204,2024-01-01T00:00:00,159
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,1469,2024-01-01T00:00:00,160
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,1639,2024-01-01T00:00:00,161
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,1631,2024-01-01T00:00:00,162
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,2194,2024-01-01T00:00:00,163
+2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,1912,2024-01-01T00:00:00,164
+2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,1914,2024-01-01T00:00:00,165
+2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,1304,2024-01-01T00:00:00,166
+2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,2279,2024-01-01T00:00:00,167
+2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,1690,2024-01-01T00:00:00,168
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,1402,2024-01-01T00:00:00,169
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,966,2024-01-01T00:00:00,170
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,1209,2024-01-01T00:00:00,171
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,1421,2024-01-01T00:00:00,172
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,1258,2024-01-01T00:00:00,173
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,1150,2024-01-01T00:00:00,174
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,1260,2024-01-01T00:00:00,175
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,1040,2024-01-01T00:00:00,176
+2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,1150,2024-01-01T00:00:00,177
+2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,1134,2024-01-01T00:00:00,178
+2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,1643,2024-01-01T00:00:00,179
+2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,1442,2024-01-01T00:00:00,180
+2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,1288,2024-01-01T00:00:00,181
+2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,1320,2024-01-01T00:00:00,182
+2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,1536,2024-01-01T00:00:00,183
+2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,1106,2024-01-01T00:00:00,184
+2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,1131,2024-01-01T00:00:00,185
+2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,1004,2024-01-01T00:00:00,186
+2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,875,2024-01-01T00:00:00,187
+2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,1468,2024-01-01T00:00:00,188
+2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,2111,2024-01-01T00:00:00,189
+2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,879,2024-01-01T00:00:00,190
+2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,1505,2024-01-01T00:00:00,191
+2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,1966,2024-01-01T00:00:00,192
+2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,1694,2024-01-01T00:00:00,193
+2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,1907,2024-01-01T00:00:00,194
+2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,1225,2024-01-01T00:00:00,195
+2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,1972,2024-01-01T00:00:00,196
+2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,1562,2024-01-01T00:00:00,197
+2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,1543,2024-01-01T00:00:00,198
+2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,1238,2024-01-01T00:00:00,199
+2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,1235,2024-01-01T00:00:00,200
+2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,2117,2024-01-01T00:00:00,201
+2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,1568,2024-01-01T00:00:00,202
+2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,1875,2024-01-01T00:00:00,203
+2,Eixample,10,Sant Antoni,51,2150,1548,2024-01-01T00:00:00,204
+2,Eixample,10,Sant Antoni,51,2151,1496,2024-01-01T00:00:00,205
+2,Eixample,10,Sant Antoni,51,2152,1251,2024-01-01T00:00:00,206
+2,Eixample,10,Sant Antoni,51,2153,1411,2024-01-01T00:00:00,207
+2,Eixample,10,Sant Antoni,51,2154,1062,2024-01-01T00:00:00,208
+2,Eixample,10,Sant Antoni,51,2155,1858,2024-01-01T00:00:00,209
+2,Eixample,10,Sant Antoni,51,2156,1302,2024-01-01T00:00:00,210
+2,Eixample,10,Sant Antoni,51,2157,1262,2024-01-01T00:00:00,211
+2,Eixample,10,Sant Antoni,52,2158,1698,2024-01-01T00:00:00,212
+2,Eixample,10,Sant Antoni,52,2159,1940,2024-01-01T00:00:00,213
+2,Eixample,10,Sant Antoni,52,2160,1986,2024-01-01T00:00:00,214
+2,Eixample,10,Sant Antoni,52,2161,1158,2024-01-01T00:00:00,215
+2,Eixample,10,Sant Antoni,52,2162,1409,2024-01-01T00:00:00,216
+2,Eixample,10,Sant Antoni,53,2163,1838,2024-01-01T00:00:00,217
+2,Eixample,10,Sant Antoni,53,2164,1569,2024-01-01T00:00:00,218
+2,Eixample,10,Sant Antoni,53,2165,1685,2024-01-01T00:00:00,219
+2,Eixample,10,Sant Antoni,54,2166,2108,2024-01-01T00:00:00,220
+2,Eixample,10,Sant Antoni,54,2167,2172,2024-01-01T00:00:00,221
+2,Eixample,10,Sant Antoni,54,2168,2258,2024-01-01T00:00:00,222
+2,Eixample,10,Sant Antoni,55,2169,1523,2024-01-01T00:00:00,223
+2,Eixample,10,Sant Antoni,55,2170,1539,2024-01-01T00:00:00,224
+2,Eixample,10,Sant Antoni,55,2171,1624,2024-01-01T00:00:00,225
+2,Eixample,10,Sant Antoni,55,2172,1488,2024-01-01T00:00:00,226
+2,Eixample,10,Sant Antoni,55,2173,1513,2024-01-01T00:00:00,227
+3,Sants-Montjuïc,11,el Poble-sec,56,3001,1716,2024-01-01T00:00:00,228
+3,Sants-Montjuïc,11,el Poble-sec,56,3002,1891,2024-01-01T00:00:00,229
+3,Sants-Montjuïc,11,el Poble-sec,56,3003,1648,2024-01-01T00:00:00,230
+3,Sants-Montjuïc,11,el Poble-sec,56,3004,1536,2024-01-01T00:00:00,231
+3,Sants-Montjuïc,11,el Poble-sec,56,3005,1243,2024-01-01T00:00:00,232
+3,Sants-Montjuïc,11,el Poble-sec,56,3006,1396,2024-01-01T00:00:00,233
+3,Sants-Montjuïc,11,el Poble-sec,56,3007,1659,2024-01-01T00:00:00,234
+3,Sants-Montjuïc,11,el Poble-sec,56,3008,1153,2024-01-01T00:00:00,235
+3,Sants-Montjuïc,11,el Poble-sec,56,3009,1204,2024-01-01T00:00:00,236
+3,Sants-Montjuïc,11,el Poble-sec,57,3010,1887,2024-01-01T00:00:00,237
+3,Sants-Montjuïc,11,el Poble-sec,57,3011,1814,2024-01-01T00:00:00,238
+3,Sants-Montjuïc,11,el Poble-sec,57,3012,2082,2024-01-01T00:00:00,239
+3,Sants-Montjuïc,11,el Poble-sec,57,3013,1756,2024-01-01T00:00:00,240
+3,Sants-Montjuïc,11,el Poble-sec,57,3014,1761,2024-01-01T00:00:00,241
+3,Sants-Montjuïc,11,el Poble-sec,57,3015,2931,2024-01-01T00:00:00,242
+3,Sants-Montjuïc,11,el Poble-sec,57,3016,1237,2024-01-01T00:00:00,243
+3,Sants-Montjuïc,11,el Poble-sec,57,3017,1628,2024-01-01T00:00:00,244
+3,Sants-Montjuïc,11,el Poble-sec,58,3018,1672,2024-01-01T00:00:00,245
+3,Sants-Montjuïc,11,el Poble-sec,58,3019,1449,2024-01-01T00:00:00,246
+3,Sants-Montjuïc,11,el Poble-sec,58,3020,1236,2024-01-01T00:00:00,247
+3,Sants-Montjuïc,11,el Poble-sec,58,3021,1043,2024-01-01T00:00:00,248
+3,Sants-Montjuïc,11,el Poble-sec,58,3022,1450,2024-01-01T00:00:00,249
+3,Sants-Montjuïc,11,el Poble-sec,59,3023,1776,2024-01-01T00:00:00,250
+3,Sants-Montjuïc,11,el Poble-sec,59,3024,2009,2024-01-01T00:00:00,251
+3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,1977,2024-01-01T00:00:00,252
+3,Sants-Montjuïc,13,la Marina de Port,61,3026,1022,2024-01-01T00:00:00,253
+3,Sants-Montjuïc,13,la Marina de Port,61,3027,1732,2024-01-01T00:00:00,254
+3,Sants-Montjuïc,13,la Marina de Port,61,3028,2679,2024-01-01T00:00:00,255
+3,Sants-Montjuïc,13,la Marina de Port,61,3029,1299,2024-01-01T00:00:00,256
+3,Sants-Montjuïc,13,la Marina de Port,61,3030,1599,2024-01-01T00:00:00,257
+4,Les Corts,19,les Corts,84,4034,1424,2024-01-01T00:00:00,378
+3,Sants-Montjuïc,13,la Marina de Port,62,3031,2341,2024-01-01T00:00:00,258
+3,Sants-Montjuïc,13,la Marina de Port,62,3032,1795,2024-01-01T00:00:00,259
+3,Sants-Montjuïc,13,la Marina de Port,62,3033,1498,2024-01-01T00:00:00,260
+3,Sants-Montjuïc,13,la Marina de Port,62,3034,1506,2024-01-01T00:00:00,261
+3,Sants-Montjuïc,13,la Marina de Port,62,3211,1525,2024-01-01T00:00:00,262
+3,Sants-Montjuïc,13,la Marina de Port,63,3035,2298,2024-01-01T00:00:00,263
+3,Sants-Montjuïc,13,la Marina de Port,63,3036,2412,2024-01-01T00:00:00,264
+3,Sants-Montjuïc,13,la Marina de Port,63,3037,986,2024-01-01T00:00:00,265
+3,Sants-Montjuïc,13,la Marina de Port,63,3212,2453,2024-01-01T00:00:00,266
+3,Sants-Montjuïc,13,la Marina de Port,63,3213,2319,2024-01-01T00:00:00,267
+3,Sants-Montjuïc,13,la Marina de Port,64,3038,968,2024-01-01T00:00:00,268
+3,Sants-Montjuïc,13,la Marina de Port,64,3039,2528,2024-01-01T00:00:00,269
+3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,1872,2024-01-01T00:00:00,270
+3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,1424,2024-01-01T00:00:00,271
+3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,1372,2024-01-01T00:00:00,272
+3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,1618,2024-01-01T00:00:00,273
+3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,1839,2024-01-01T00:00:00,274
+3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,1118,2024-01-01T00:00:00,275
+3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,1456,2024-01-01T00:00:00,276
+3,Sants-Montjuïc,15,Hostafrancs,66,3047,1781,2024-01-01T00:00:00,277
+3,Sants-Montjuïc,15,Hostafrancs,66,3048,1355,2024-01-01T00:00:00,278
+3,Sants-Montjuïc,15,Hostafrancs,66,3049,1692,2024-01-01T00:00:00,279
+3,Sants-Montjuïc,15,Hostafrancs,66,3050,1676,2024-01-01T00:00:00,280
+3,Sants-Montjuïc,15,Hostafrancs,67,3051,1858,2024-01-01T00:00:00,281
+3,Sants-Montjuïc,15,Hostafrancs,67,3052,1385,2024-01-01T00:00:00,282
+3,Sants-Montjuïc,15,Hostafrancs,67,3053,2244,2024-01-01T00:00:00,283
+3,Sants-Montjuïc,15,Hostafrancs,67,3054,1653,2024-01-01T00:00:00,284
+3,Sants-Montjuïc,15,Hostafrancs,67,3055,1612,2024-01-01T00:00:00,285
+3,Sants-Montjuïc,15,Hostafrancs,67,3056,936,2024-01-01T00:00:00,286
+3,Sants-Montjuïc,16,la Bordeta,68,3057,1512,2024-01-01T00:00:00,287
+3,Sants-Montjuïc,16,la Bordeta,68,3058,1800,2024-01-01T00:00:00,288
+3,Sants-Montjuïc,16,la Bordeta,68,3059,1263,2024-01-01T00:00:00,289
+3,Sants-Montjuïc,16,la Bordeta,68,3060,1384,2024-01-01T00:00:00,290
+3,Sants-Montjuïc,16,la Bordeta,68,3061,1170,2024-01-01T00:00:00,291
+3,Sants-Montjuïc,16,la Bordeta,69,3062,1641,2024-01-01T00:00:00,292
+3,Sants-Montjuïc,16,la Bordeta,69,3063,2022,2024-01-01T00:00:00,293
+3,Sants-Montjuïc,16,la Bordeta,69,3064,1786,2024-01-01T00:00:00,294
+3,Sants-Montjuïc,16,la Bordeta,69,3065,1340,2024-01-01T00:00:00,295
+3,Sants-Montjuïc,16,la Bordeta,69,3066,2360,2024-01-01T00:00:00,296
+3,Sants-Montjuïc,16,la Bordeta,69,3067,1714,2024-01-01T00:00:00,297
+3,Sants-Montjuïc,16,la Bordeta,69,3068,1184,2024-01-01T00:00:00,298
+3,Sants-Montjuïc,16,la Bordeta,69,3069,1216,2024-01-01T00:00:00,299
+3,Sants-Montjuïc,17,Sants - Badal,70,3070,1308,2024-01-01T00:00:00,300
+3,Sants-Montjuïc,17,Sants - Badal,70,3071,1391,2024-01-01T00:00:00,301
+3,Sants-Montjuïc,17,Sants - Badal,70,3072,1364,2024-01-01T00:00:00,302
+3,Sants-Montjuïc,17,Sants - Badal,70,3073,1607,2024-01-01T00:00:00,303
+3,Sants-Montjuïc,17,Sants - Badal,70,3074,1814,2024-01-01T00:00:00,304
+3,Sants-Montjuïc,17,Sants - Badal,70,3075,1765,2024-01-01T00:00:00,305
+3,Sants-Montjuïc,17,Sants - Badal,70,3076,1043,2024-01-01T00:00:00,306
+3,Sants-Montjuïc,17,Sants - Badal,70,3077,1399,2024-01-01T00:00:00,307
+3,Sants-Montjuïc,17,Sants - Badal,70,3078,1780,2024-01-01T00:00:00,308
+3,Sants-Montjuïc,17,Sants - Badal,70,3079,1835,2024-01-01T00:00:00,309
+3,Sants-Montjuïc,17,Sants - Badal,70,3080,1578,2024-01-01T00:00:00,310
+3,Sants-Montjuïc,17,Sants - Badal,71,3081,2006,2024-01-01T00:00:00,311
+3,Sants-Montjuïc,17,Sants - Badal,71,3082,1880,2024-01-01T00:00:00,312
+3,Sants-Montjuïc,17,Sants - Badal,71,3083,1388,2024-01-01T00:00:00,313
+3,Sants-Montjuïc,17,Sants - Badal,71,3084,1442,2024-01-01T00:00:00,314
+3,Sants-Montjuïc,17,Sants - Badal,71,3085,1331,2024-01-01T00:00:00,315
+3,Sants-Montjuïc,18,Sants,72,3086,1278,2024-01-01T00:00:00,316
+3,Sants-Montjuïc,18,Sants,72,3087,1467,2024-01-01T00:00:00,317
+3,Sants-Montjuïc,18,Sants,72,3088,1382,2024-01-01T00:00:00,318
+3,Sants-Montjuïc,18,Sants,72,3089,1227,2024-01-01T00:00:00,319
+3,Sants-Montjuïc,18,Sants,72,3090,1020,2024-01-01T00:00:00,320
+3,Sants-Montjuïc,18,Sants,72,3091,1475,2024-01-01T00:00:00,321
+3,Sants-Montjuïc,18,Sants,72,3092,1222,2024-01-01T00:00:00,322
+3,Sants-Montjuïc,18,Sants,72,3093,1451,2024-01-01T00:00:00,323
+3,Sants-Montjuïc,18,Sants,72,3094,1219,2024-01-01T00:00:00,324
+3,Sants-Montjuïc,18,Sants,73,3095,1610,2024-01-01T00:00:00,325
+3,Sants-Montjuïc,18,Sants,73,3096,1587,2024-01-01T00:00:00,326
+3,Sants-Montjuïc,18,Sants,73,3097,1652,2024-01-01T00:00:00,327
+3,Sants-Montjuïc,18,Sants,73,3098,1459,2024-01-01T00:00:00,328
+3,Sants-Montjuïc,18,Sants,73,3099,1045,2024-01-01T00:00:00,329
+3,Sants-Montjuïc,18,Sants,73,3100,1281,2024-01-01T00:00:00,330
+3,Sants-Montjuïc,18,Sants,74,3101,7600,2024-01-01T00:00:00,331
+3,Sants-Montjuïc,18,Sants,74,3102,1387,2024-01-01T00:00:00,332
+3,Sants-Montjuïc,18,Sants,74,3103,1124,2024-01-01T00:00:00,333
+3,Sants-Montjuïc,18,Sants,74,3104,1470,2024-01-01T00:00:00,334
+3,Sants-Montjuïc,18,Sants,75,3105,1226,2024-01-01T00:00:00,335
+3,Sants-Montjuïc,18,Sants,75,3106,1293,2024-01-01T00:00:00,336
+3,Sants-Montjuïc,18,Sants,76,3107,1777,2024-01-01T00:00:00,337
+3,Sants-Montjuïc,18,Sants,76,3108,1613,2024-01-01T00:00:00,338
+3,Sants-Montjuïc,18,Sants,76,3109,1551,2024-01-01T00:00:00,339
+3,Sants-Montjuïc,18,Sants,76,3110,1479,2024-01-01T00:00:00,340
+3,Sants-Montjuïc,18,Sants,76,3111,1269,2024-01-01T00:00:00,341
+3,Sants-Montjuïc,18,Sants,76,3112,1908,2024-01-01T00:00:00,342
+3,Sants-Montjuïc,18,Sants,76,3113,1526,2024-01-01T00:00:00,343
+3,Sants-Montjuïc,18,Sants,76,3114,1465,2024-01-01T00:00:00,344
+4,Les Corts,19,les Corts,77,4001,1268,2024-01-01T00:00:00,345
+4,Les Corts,19,les Corts,77,4002,1921,2024-01-01T00:00:00,346
+4,Les Corts,19,les Corts,77,4003,1057,2024-01-01T00:00:00,347
+4,Les Corts,19,les Corts,77,4004,1018,2024-01-01T00:00:00,348
+4,Les Corts,19,les Corts,77,4005,1217,2024-01-01T00:00:00,349
+4,Les Corts,19,les Corts,77,4006,1155,2024-01-01T00:00:00,350
+4,Les Corts,19,les Corts,77,4007,1062,2024-01-01T00:00:00,351
+4,Les Corts,19,les Corts,77,4008,1019,2024-01-01T00:00:00,352
+4,Les Corts,19,les Corts,77,4009,1454,2024-01-01T00:00:00,353
+4,Les Corts,19,les Corts,78,4010,917,2024-01-01T00:00:00,354
+4,Les Corts,19,les Corts,78,4011,1737,2024-01-01T00:00:00,355
+4,Les Corts,19,les Corts,78,4012,1298,2024-01-01T00:00:00,356
+4,Les Corts,19,les Corts,78,4013,1226,2024-01-01T00:00:00,357
+4,Les Corts,19,les Corts,78,4014,789,2024-01-01T00:00:00,358
+4,Les Corts,19,les Corts,78,4015,1886,2024-01-01T00:00:00,359
+4,Les Corts,19,les Corts,78,4016,1089,2024-01-01T00:00:00,360
+4,Les Corts,19,les Corts,79,4017,1167,2024-01-01T00:00:00,361
+4,Les Corts,19,les Corts,79,4018,1524,2024-01-01T00:00:00,362
+4,Les Corts,19,les Corts,79,4019,1408,2024-01-01T00:00:00,363
+4,Les Corts,19,les Corts,79,4020,1461,2024-01-01T00:00:00,364
+4,Les Corts,19,les Corts,79,4021,1321,2024-01-01T00:00:00,365
+4,Les Corts,19,les Corts,80,4022,1689,2024-01-01T00:00:00,366
+4,Les Corts,19,les Corts,81,4023,1057,2024-01-01T00:00:00,367
+4,Les Corts,19,les Corts,81,4024,1014,2024-01-01T00:00:00,368
+4,Les Corts,19,les Corts,82,4025,1179,2024-01-01T00:00:00,369
+4,Les Corts,19,les Corts,82,4026,1225,2024-01-01T00:00:00,370
+4,Les Corts,19,les Corts,82,4027,1361,2024-01-01T00:00:00,371
+4,Les Corts,19,les Corts,83,4028,1311,2024-01-01T00:00:00,372
+4,Les Corts,19,les Corts,83,4029,1120,2024-01-01T00:00:00,373
+4,Les Corts,19,les Corts,83,4030,1794,2024-01-01T00:00:00,374
+4,Les Corts,19,les Corts,84,4031,2449,2024-01-01T00:00:00,375
+4,Les Corts,19,les Corts,84,4032,1596,2024-01-01T00:00:00,376
+4,Les Corts,19,les Corts,84,4033,1164,2024-01-01T00:00:00,377
+4,Les Corts,19,les Corts,84,4035,1363,2024-01-01T00:00:00,379
+4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,1777,2024-01-01T00:00:00,380
+4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,2207,2024-01-01T00:00:00,381
+4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,1245,2024-01-01T00:00:00,382
+4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,1170,2024-01-01T00:00:00,383
+4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,1614,2024-01-01T00:00:00,384
+4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,1373,2024-01-01T00:00:00,385
+4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,1762,2024-01-01T00:00:00,386
+4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,1636,2024-01-01T00:00:00,387
+4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,1601,2024-01-01T00:00:00,388
+4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,1400,2024-01-01T00:00:00,389
+4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,2409,2024-01-01T00:00:00,390
+4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,1926,2024-01-01T00:00:00,391
+4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,1523,2024-01-01T00:00:00,392
+4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,1249,2024-01-01T00:00:00,393
+4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,1421,2024-01-01T00:00:00,394
+4,Les Corts,21,Pedralbes,88,4050,2103,2024-01-01T00:00:00,395
+4,Les Corts,21,Pedralbes,88,4051,1712,2024-01-01T00:00:00,396
+4,Les Corts,21,Pedralbes,88,4052,2226,2024-01-01T00:00:00,397
+4,Les Corts,21,Pedralbes,89,4053,1761,2024-01-01T00:00:00,398
+4,Les Corts,21,Pedralbes,89,4054,1100,2024-01-01T00:00:00,399
+4,Les Corts,21,Pedralbes,90,4055,1624,2024-01-01T00:00:00,400
+4,Les Corts,21,Pedralbes,90,4056,1972,2024-01-01T00:00:00,401
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,1873,2024-01-01T00:00:00,402
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,1634,2024-01-01T00:00:00,403
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,1394,2024-01-01T00:00:00,404
+5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,1037,2024-01-01T00:00:00,405
+5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,1270,2024-01-01T00:00:00,406
+5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,1831,2024-01-01T00:00:00,407
+5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,2057,2024-01-01T00:00:00,408
+5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,1691,2024-01-01T00:00:00,409
+5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,1666,2024-01-01T00:00:00,410
+5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,1541,2024-01-01T00:00:00,411
+5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,1453,2024-01-01T00:00:00,412
+5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,1372,2024-01-01T00:00:00,413
+5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,1690,2024-01-01T00:00:00,414
+5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,1600,2024-01-01T00:00:00,415
+5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,1585,2024-01-01T00:00:00,416
+5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,1846,2024-01-01T00:00:00,417
+5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,1544,2024-01-01T00:00:00,418
+5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,1300,2024-01-01T00:00:00,419
+5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,1630,2024-01-01T00:00:00,420
+5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,1140,2024-01-01T00:00:00,421
+5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,1325,2024-01-01T00:00:00,422
+5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,1707,2024-01-01T00:00:00,423
+5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,1475,2024-01-01T00:00:00,424
+5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,1977,2024-01-01T00:00:00,425
+5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,1251,2024-01-01T00:00:00,426
+5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,1423,2024-01-01T00:00:00,427
+5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,1379,2024-01-01T00:00:00,428
+5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,1680,2024-01-01T00:00:00,429
+5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,1669,2024-01-01T00:00:00,430
+5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,1367,2024-01-01T00:00:00,431
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,1598,2024-01-01T00:00:00,432
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,1884,2024-01-01T00:00:00,433
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,1444,2024-01-01T00:00:00,434
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,1218,2024-01-01T00:00:00,435
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,1072,2024-01-01T00:00:00,436
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,1816,2024-01-01T00:00:00,437
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,1498,2024-01-01T00:00:00,438
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,1425,2024-01-01T00:00:00,439
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,1564,2024-01-01T00:00:00,440
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,1477,2024-01-01T00:00:00,441
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,2372,2024-01-01T00:00:00,442
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,1312,2024-01-01T00:00:00,443
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,1499,2024-01-01T00:00:00,444
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,1335,2024-01-01T00:00:00,445
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,1623,2024-01-01T00:00:00,446
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,1163,2024-01-01T00:00:00,447
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,1222,2024-01-01T00:00:00,448
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,1228,2024-01-01T00:00:00,449
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,1699,2024-01-01T00:00:00,450
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,1702,2024-01-01T00:00:00,451
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,1662,2024-01-01T00:00:00,452
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,1397,2024-01-01T00:00:00,453
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,1496,2024-01-01T00:00:00,454
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,1016,2024-01-01T00:00:00,455
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,1397,2024-01-01T00:00:00,456
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,1192,2024-01-01T00:00:00,457
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,1635,2024-01-01T00:00:00,458
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,1563,2024-01-01T00:00:00,459
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,1559,2024-01-01T00:00:00,460
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,1174,2024-01-01T00:00:00,461
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,1446,2024-01-01T00:00:00,462
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,1641,2024-01-01T00:00:00,463
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,1566,2024-01-01T00:00:00,464
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,1711,2024-01-01T00:00:00,465
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,1734,2024-01-01T00:00:00,466
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,1332,2024-01-01T00:00:00,467
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,1418,2024-01-01T00:00:00,468
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,1632,2024-01-01T00:00:00,469
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,1776,2024-01-01T00:00:00,470
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,1444,2024-01-01T00:00:00,471
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,1854,2024-01-01T00:00:00,472
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,1735,2024-01-01T00:00:00,473
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,1611,2024-01-01T00:00:00,474
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,1638,2024-01-01T00:00:00,475
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,1891,2024-01-01T00:00:00,476
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,1478,2024-01-01T00:00:00,477
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,1583,2024-01-01T00:00:00,478
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,2105,2024-01-01T00:00:00,479
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,1311,2024-01-01T00:00:00,480
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,1339,2024-01-01T00:00:00,481
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,1619,2024-01-01T00:00:00,482
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,1681,2024-01-01T00:00:00,483
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,1249,2024-01-01T00:00:00,484
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,1348,2024-01-01T00:00:00,485
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,1337,2024-01-01T00:00:00,486
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,1360,2024-01-01T00:00:00,487
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,1651,2024-01-01T00:00:00,488
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,1756,2024-01-01T00:00:00,489
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,1877,2024-01-01T00:00:00,490
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,1880,2024-01-01T00:00:00,491
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,1534,2024-01-01T00:00:00,492
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,1628,2024-01-01T00:00:00,493
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,1175,2024-01-01T00:00:00,494
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,2794,2024-01-01T00:00:00,495
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,1736,2024-01-01T00:00:00,496
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,1160,2024-01-01T00:00:00,497
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,1720,2024-01-01T00:00:00,498
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,1491,2024-01-01T00:00:00,499
+6,Gràcia,28,Vallcarca i els Penitents,114,6001,1282,2024-01-01T00:00:00,500
+6,Gràcia,28,Vallcarca i els Penitents,114,6002,1527,2024-01-01T00:00:00,501
+6,Gràcia,28,Vallcarca i els Penitents,114,6003,2410,2024-01-01T00:00:00,502
+6,Gràcia,28,Vallcarca i els Penitents,114,6004,1426,2024-01-01T00:00:00,503
+6,Gràcia,28,Vallcarca i els Penitents,115,6006,1032,2024-01-01T00:00:00,504
+6,Gràcia,28,Vallcarca i els Penitents,115,6007,2037,2024-01-01T00:00:00,505
+6,Gràcia,28,Vallcarca i els Penitents,115,6008,2114,2024-01-01T00:00:00,506
+6,Gràcia,28,Vallcarca i els Penitents,116,6009,1339,2024-01-01T00:00:00,507
+6,Gràcia,28,Vallcarca i els Penitents,116,6010,1037,2024-01-01T00:00:00,508
+6,Gràcia,28,Vallcarca i els Penitents,117,6011,1322,2024-01-01T00:00:00,509
+6,Gràcia,28,Vallcarca i els Penitents,117,6012,1152,2024-01-01T00:00:00,510
+6,Gràcia,29,el Coll,118,6013,1859,2024-01-01T00:00:00,511
+6,Gràcia,29,el Coll,118,6014,1475,2024-01-01T00:00:00,512
+6,Gràcia,29,el Coll,118,6015,1508,2024-01-01T00:00:00,513
+6,Gràcia,29,el Coll,118,6016,1617,2024-01-01T00:00:00,514
+6,Gràcia,29,el Coll,118,6017,1484,2024-01-01T00:00:00,515
+6,Gràcia,30,la Salut,119,6018,1415,2024-01-01T00:00:00,516
+6,Gràcia,30,la Salut,119,6019,1518,2024-01-01T00:00:00,517
+6,Gràcia,30,la Salut,119,6020,1231,2024-01-01T00:00:00,518
+6,Gràcia,30,la Salut,119,6021,1393,2024-01-01T00:00:00,519
+6,Gràcia,30,la Salut,120,6022,1384,2024-01-01T00:00:00,520
+6,Gràcia,30,la Salut,120,6023,1287,2024-01-01T00:00:00,521
+6,Gràcia,30,la Salut,120,6024,1725,2024-01-01T00:00:00,522
+6,Gràcia,30,la Salut,120,6025,1428,2024-01-01T00:00:00,523
+6,Gràcia,30,la Salut,120,6026,1102,2024-01-01T00:00:00,524
+6,Gràcia,30,la Salut,120,6027,1196,2024-01-01T00:00:00,525
+6,Gràcia,31,la Vila de Gràcia,121,6028,1382,2024-01-01T00:00:00,526
+6,Gràcia,31,la Vila de Gràcia,121,6029,1395,2024-01-01T00:00:00,527
+6,Gràcia,31,la Vila de Gràcia,121,6030,1379,2024-01-01T00:00:00,528
+6,Gràcia,31,la Vila de Gràcia,121,6031,1127,2024-01-01T00:00:00,529
+6,Gràcia,31,la Vila de Gràcia,121,6032,1189,2024-01-01T00:00:00,530
+6,Gràcia,31,la Vila de Gràcia,122,6033,1306,2024-01-01T00:00:00,531
+6,Gràcia,31,la Vila de Gràcia,122,6034,1171,2024-01-01T00:00:00,532
+6,Gràcia,31,la Vila de Gràcia,122,6035,1102,2024-01-01T00:00:00,533
+6,Gràcia,31,la Vila de Gràcia,122,6036,1454,2024-01-01T00:00:00,534
+6,Gràcia,31,la Vila de Gràcia,123,6037,1072,2024-01-01T00:00:00,535
+6,Gràcia,31,la Vila de Gràcia,123,6038,1565,2024-01-01T00:00:00,536
+6,Gràcia,31,la Vila de Gràcia,123,6039,1652,2024-01-01T00:00:00,537
+6,Gràcia,31,la Vila de Gràcia,124,6040,1744,2024-01-01T00:00:00,538
+6,Gràcia,31,la Vila de Gràcia,124,6041,1807,2024-01-01T00:00:00,539
+6,Gràcia,31,la Vila de Gràcia,124,6042,1753,2024-01-01T00:00:00,540
+6,Gràcia,31,la Vila de Gràcia,125,6043,1374,2024-01-01T00:00:00,541
+6,Gràcia,31,la Vila de Gràcia,125,6044,1643,2024-01-01T00:00:00,542
+6,Gràcia,31,la Vila de Gràcia,126,6045,1243,2024-01-01T00:00:00,543
+6,Gràcia,31,la Vila de Gràcia,126,6046,1093,2024-01-01T00:00:00,544
+6,Gràcia,31,la Vila de Gràcia,126,6047,1239,2024-01-01T00:00:00,545
+6,Gràcia,31,la Vila de Gràcia,126,6048,1414,2024-01-01T00:00:00,546
+6,Gràcia,31,la Vila de Gràcia,127,6049,1156,2024-01-01T00:00:00,547
+6,Gràcia,31,la Vila de Gràcia,127,6050,1331,2024-01-01T00:00:00,548
+6,Gràcia,31,la Vila de Gràcia,127,6051,1219,2024-01-01T00:00:00,549
+6,Gràcia,31,la Vila de Gràcia,128,6052,1474,2024-01-01T00:00:00,550
+6,Gràcia,31,la Vila de Gràcia,128,6053,1563,2024-01-01T00:00:00,551
+6,Gràcia,31,la Vila de Gràcia,128,6054,1564,2024-01-01T00:00:00,552
+6,Gràcia,31,la Vila de Gràcia,129,6055,1377,2024-01-01T00:00:00,553
+6,Gràcia,31,la Vila de Gràcia,129,6056,1636,2024-01-01T00:00:00,554
+6,Gràcia,31,la Vila de Gràcia,129,6057,1577,2024-01-01T00:00:00,555
+6,Gràcia,31,la Vila de Gràcia,129,6058,1737,2024-01-01T00:00:00,556
+6,Gràcia,31,la Vila de Gràcia,129,6059,1506,2024-01-01T00:00:00,557
+6,Gràcia,31,la Vila de Gràcia,130,6060,1750,2024-01-01T00:00:00,558
+6,Gràcia,31,la Vila de Gràcia,130,6061,1363,2024-01-01T00:00:00,559
+6,Gràcia,31,la Vila de Gràcia,130,6062,1231,2024-01-01T00:00:00,560
+6,Gràcia,31,la Vila de Gràcia,130,6063,1487,2024-01-01T00:00:00,561
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,1915,2024-01-01T00:00:00,562
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,1136,2024-01-01T00:00:00,563
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,986,2024-01-01T00:00:00,564
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,1836,2024-01-01T00:00:00,565
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,1593,2024-01-01T00:00:00,566
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,1099,2024-01-01T00:00:00,567
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,1915,2024-01-01T00:00:00,568
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,1080,2024-01-01T00:00:00,569
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,1645,2024-01-01T00:00:00,570
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,1322,2024-01-01T00:00:00,571
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,1170,2024-01-01T00:00:00,572
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,1090,2024-01-01T00:00:00,573
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,1294,2024-01-01T00:00:00,574
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,1184,2024-01-01T00:00:00,575
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,1293,2024-01-01T00:00:00,576
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,1153,2024-01-01T00:00:00,577
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,1177,2024-01-01T00:00:00,578
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,1332,2024-01-01T00:00:00,579
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,3628,2024-01-01T00:00:00,580
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,1674,2024-01-01T00:00:00,581
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,1459,2024-01-01T00:00:00,582
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,1334,2024-01-01T00:00:00,583
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,999,2024-01-01T00:00:00,584
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,1816,2024-01-01T00:00:00,585
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,1282,2024-01-01T00:00:00,586
+7,Horta-Guinardó,33,el Baix Guinardó,135,7001,1562,2024-01-01T00:00:00,587
+7,Horta-Guinardó,33,el Baix Guinardó,135,7002,1126,2024-01-01T00:00:00,588
+7,Horta-Guinardó,33,el Baix Guinardó,135,7003,1387,2024-01-01T00:00:00,589
+7,Horta-Guinardó,33,el Baix Guinardó,135,7004,1581,2024-01-01T00:00:00,590
+7,Horta-Guinardó,33,el Baix Guinardó,135,7005,1441,2024-01-01T00:00:00,591
+7,Horta-Guinardó,33,el Baix Guinardó,135,7006,922,2024-01-01T00:00:00,592
+7,Horta-Guinardó,33,el Baix Guinardó,135,7007,1414,2024-01-01T00:00:00,593
+7,Horta-Guinardó,33,el Baix Guinardó,135,7008,1393,2024-01-01T00:00:00,594
+7,Horta-Guinardó,33,el Baix Guinardó,136,7009,1301,2024-01-01T00:00:00,595
+7,Horta-Guinardó,33,el Baix Guinardó,136,7010,1332,2024-01-01T00:00:00,596
+7,Horta-Guinardó,33,el Baix Guinardó,136,7011,1158,2024-01-01T00:00:00,597
+7,Horta-Guinardó,33,el Baix Guinardó,136,7012,1592,2024-01-01T00:00:00,598
+7,Horta-Guinardó,33,el Baix Guinardó,136,7013,1237,2024-01-01T00:00:00,599
+7,Horta-Guinardó,33,el Baix Guinardó,137,7014,887,2024-01-01T00:00:00,600
+7,Horta-Guinardó,33,el Baix Guinardó,137,7015,1385,2024-01-01T00:00:00,601
+7,Horta-Guinardó,33,el Baix Guinardó,137,7016,1345,2024-01-01T00:00:00,602
+7,Horta-Guinardó,33,el Baix Guinardó,137,7017,1842,2024-01-01T00:00:00,603
+7,Horta-Guinardó,33,el Baix Guinardó,137,7018,1763,2024-01-01T00:00:00,604
+7,Horta-Guinardó,33,el Baix Guinardó,137,7019,1612,2024-01-01T00:00:00,605
+7,Horta-Guinardó,34,Can Baró,138,7020,1740,2024-01-01T00:00:00,606
+7,Horta-Guinardó,34,Can Baró,138,7021,1090,2024-01-01T00:00:00,607
+7,Horta-Guinardó,34,Can Baró,138,7022,1177,2024-01-01T00:00:00,608
+7,Horta-Guinardó,34,Can Baró,138,7023,1329,2024-01-01T00:00:00,609
+7,Horta-Guinardó,34,Can Baró,138,7024,1517,2024-01-01T00:00:00,610
+7,Horta-Guinardó,34,Can Baró,138,7025,1537,2024-01-01T00:00:00,611
+7,Horta-Guinardó,34,Can Baró,138,7026,1135,2024-01-01T00:00:00,612
+7,Horta-Guinardó,35,el Guinardó,139,7027,2115,2024-01-01T00:00:00,613
+7,Horta-Guinardó,35,el Guinardó,139,7028,1516,2024-01-01T00:00:00,614
+7,Horta-Guinardó,35,el Guinardó,139,7029,1311,2024-01-01T00:00:00,615
+7,Horta-Guinardó,35,el Guinardó,139,7030,1499,2024-01-01T00:00:00,616
+7,Horta-Guinardó,35,el Guinardó,140,7031,1602,2024-01-01T00:00:00,617
+7,Horta-Guinardó,35,el Guinardó,140,7032,1476,2024-01-01T00:00:00,618
+7,Horta-Guinardó,35,el Guinardó,140,7033,1504,2024-01-01T00:00:00,619
+7,Horta-Guinardó,35,el Guinardó,140,7034,1838,2024-01-01T00:00:00,620
+7,Horta-Guinardó,35,el Guinardó,140,7035,1756,2024-01-01T00:00:00,621
+7,Horta-Guinardó,35,el Guinardó,140,7036,1457,2024-01-01T00:00:00,622
+7,Horta-Guinardó,35,el Guinardó,140,7037,1550,2024-01-01T00:00:00,623
+7,Horta-Guinardó,35,el Guinardó,140,7038,1283,2024-01-01T00:00:00,624
+7,Horta-Guinardó,35,el Guinardó,141,7039,1615,2024-01-01T00:00:00,625
+7,Horta-Guinardó,35,el Guinardó,141,7040,1547,2024-01-01T00:00:00,626
+7,Horta-Guinardó,35,el Guinardó,141,7041,1441,2024-01-01T00:00:00,627
+7,Horta-Guinardó,35,el Guinardó,142,7042,1635,2024-01-01T00:00:00,628
+7,Horta-Guinardó,35,el Guinardó,142,7043,1469,2024-01-01T00:00:00,629
+7,Horta-Guinardó,35,el Guinardó,142,7044,1318,2024-01-01T00:00:00,630
+7,Horta-Guinardó,35,el Guinardó,142,7045,1664,2024-01-01T00:00:00,631
+7,Horta-Guinardó,35,el Guinardó,142,7046,1412,2024-01-01T00:00:00,632
+7,Horta-Guinardó,35,el Guinardó,143,7047,1493,2024-01-01T00:00:00,633
+7,Horta-Guinardó,35,el Guinardó,143,7048,1320,2024-01-01T00:00:00,634
+7,Horta-Guinardó,35,el Guinardó,143,7049,1217,2024-01-01T00:00:00,635
+7,Horta-Guinardó,35,el Guinardó,143,7050,1230,2024-01-01T00:00:00,636
+7,Horta-Guinardó,35,el Guinardó,143,7051,1885,2024-01-01T00:00:00,637
+7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,1342,2024-01-01T00:00:00,638
+7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,1496,2024-01-01T00:00:00,639
+7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,1700,2024-01-01T00:00:00,640
+7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,1226,2024-01-01T00:00:00,641
+7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,1222,2024-01-01T00:00:00,642
+7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,1505,2024-01-01T00:00:00,643
+7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,1346,2024-01-01T00:00:00,644
+7,Horta-Guinardó,37,el Carmel,146,7059,1416,2024-01-01T00:00:00,645
+7,Horta-Guinardó,37,el Carmel,146,7060,1922,2024-01-01T00:00:00,646
+7,Horta-Guinardó,37,el Carmel,147,7061,1171,2024-01-01T00:00:00,647
+7,Horta-Guinardó,37,el Carmel,147,7062,1359,2024-01-01T00:00:00,648
+7,Horta-Guinardó,37,el Carmel,147,7063,1478,2024-01-01T00:00:00,649
+7,Horta-Guinardó,37,el Carmel,147,7064,1716,2024-01-01T00:00:00,650
+7,Horta-Guinardó,37,el Carmel,147,7065,1812,2024-01-01T00:00:00,651
+7,Horta-Guinardó,37,el Carmel,147,7066,1830,2024-01-01T00:00:00,652
+7,Horta-Guinardó,37,el Carmel,147,7067,1601,2024-01-01T00:00:00,653
+7,Horta-Guinardó,37,el Carmel,147,7068,1363,2024-01-01T00:00:00,654
+7,Horta-Guinardó,37,el Carmel,147,7069,1495,2024-01-01T00:00:00,655
+7,Horta-Guinardó,37,el Carmel,147,7070,1416,2024-01-01T00:00:00,656
+7,Horta-Guinardó,37,el Carmel,148,7071,1341,2024-01-01T00:00:00,657
+7,Horta-Guinardó,37,el Carmel,148,7072,1435,2024-01-01T00:00:00,658
+7,Horta-Guinardó,37,el Carmel,148,7073,1168,2024-01-01T00:00:00,659
+7,Horta-Guinardó,37,el Carmel,148,7074,1737,2024-01-01T00:00:00,660
+7,Horta-Guinardó,37,el Carmel,148,7075,1206,2024-01-01T00:00:00,661
+7,Horta-Guinardó,37,el Carmel,148,7076,1404,2024-01-01T00:00:00,662
+7,Horta-Guinardó,37,el Carmel,148,7077,1320,2024-01-01T00:00:00,663
+7,Horta-Guinardó,37,el Carmel,148,7078,1493,2024-01-01T00:00:00,664
+7,Horta-Guinardó,37,el Carmel,148,7079,1547,2024-01-01T00:00:00,665
+7,Horta-Guinardó,37,el Carmel,148,7080,1807,2024-01-01T00:00:00,666
+7,Horta-Guinardó,38,la Teixonera,149,7081,1919,2024-01-01T00:00:00,667
+7,Horta-Guinardó,38,la Teixonera,149,7082,1269,2024-01-01T00:00:00,668
+7,Horta-Guinardó,38,la Teixonera,149,7083,1412,2024-01-01T00:00:00,669
+7,Horta-Guinardó,38,la Teixonera,149,7084,1401,2024-01-01T00:00:00,670
+7,Horta-Guinardó,38,la Teixonera,149,7085,1328,2024-01-01T00:00:00,671
+7,Horta-Guinardó,38,la Teixonera,149,7086,1576,2024-01-01T00:00:00,672
+7,Horta-Guinardó,38,la Teixonera,149,7087,1733,2024-01-01T00:00:00,673
+7,Horta-Guinardó,38,la Teixonera,149,7088,1795,2024-01-01T00:00:00,674
+7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,1476,2024-01-01T00:00:00,675
+7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,1557,2024-01-01T00:00:00,676
+7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,1338,2024-01-01T00:00:00,677
+7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,1560,2024-01-01T00:00:00,678
+7,Horta-Guinardó,43,Horta,156,7122,1326,2024-01-01T00:00:00,708
+7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,1835,2024-01-01T00:00:00,679
+7,Horta-Guinardó,40,Montbau,151,7094,1279,2024-01-01T00:00:00,680
+7,Horta-Guinardó,40,Montbau,151,7095,1605,2024-01-01T00:00:00,681
+7,Horta-Guinardó,40,Montbau,151,7096,1510,2024-01-01T00:00:00,682
+7,Horta-Guinardó,40,Montbau,151,7097,892,2024-01-01T00:00:00,683
+7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,2162,2024-01-01T00:00:00,684
+7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,1030,2024-01-01T00:00:00,685
+7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,1198,2024-01-01T00:00:00,686
+7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,1499,2024-01-01T00:00:00,687
+7,Horta-Guinardó,42,la Clota,153,7102,841,2024-01-01T00:00:00,688
+7,Horta-Guinardó,43,Horta,154,7103,1623,2024-01-01T00:00:00,689
+7,Horta-Guinardó,43,Horta,154,7104,1595,2024-01-01T00:00:00,690
+7,Horta-Guinardó,43,Horta,154,7105,1035,2024-01-01T00:00:00,691
+7,Horta-Guinardó,43,Horta,154,7106,1201,2024-01-01T00:00:00,692
+7,Horta-Guinardó,43,Horta,154,7107,1181,2024-01-01T00:00:00,693
+7,Horta-Guinardó,43,Horta,154,7108,1241,2024-01-01T00:00:00,694
+7,Horta-Guinardó,43,Horta,154,7109,1693,2024-01-01T00:00:00,695
+7,Horta-Guinardó,43,Horta,154,7110,1024,2024-01-01T00:00:00,696
+7,Horta-Guinardó,43,Horta,154,7111,911,2024-01-01T00:00:00,697
+7,Horta-Guinardó,43,Horta,155,7112,1374,2024-01-01T00:00:00,698
+7,Horta-Guinardó,43,Horta,155,7113,1242,2024-01-01T00:00:00,699
+7,Horta-Guinardó,43,Horta,155,7114,1260,2024-01-01T00:00:00,700
+7,Horta-Guinardó,43,Horta,155,7115,1087,2024-01-01T00:00:00,701
+7,Horta-Guinardó,43,Horta,155,7116,1542,2024-01-01T00:00:00,702
+7,Horta-Guinardó,43,Horta,155,7117,5202,2024-01-01T00:00:00,703
+7,Horta-Guinardó,43,Horta,155,7118,1293,2024-01-01T00:00:00,704
+7,Horta-Guinardó,43,Horta,156,7119,1377,2024-01-01T00:00:00,705
+7,Horta-Guinardó,43,Horta,156,7120,1248,2024-01-01T00:00:00,706
+7,Horta-Guinardó,43,Horta,156,7121,1229,2024-01-01T00:00:00,707
+7,Horta-Guinardó,43,Horta,156,7123,1407,2024-01-01T00:00:00,709
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,1259,2024-01-01T00:00:00,710
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,1298,2024-01-01T00:00:00,711
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,1262,2024-01-01T00:00:00,712
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,1470,2024-01-01T00:00:00,713
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,1173,2024-01-01T00:00:00,714
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,1685,2024-01-01T00:00:00,715
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,1172,2024-01-01T00:00:00,716
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,1605,2024-01-01T00:00:00,717
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,1799,2024-01-01T00:00:00,718
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,1152,2024-01-01T00:00:00,719
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,1183,2024-01-01T00:00:00,720
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,1245,2024-01-01T00:00:00,721
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,1221,2024-01-01T00:00:00,722
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,1316,2024-01-01T00:00:00,723
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,1508,2024-01-01T00:00:00,724
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,1196,2024-01-01T00:00:00,725
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,1372,2024-01-01T00:00:00,726
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,1505,2024-01-01T00:00:00,727
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,1872,2024-01-01T00:00:00,728
+8,Nou Barris,45,Porta,161,8020,1428,2024-01-01T00:00:00,729
+8,Nou Barris,45,Porta,161,8021,1451,2024-01-01T00:00:00,730
+8,Nou Barris,45,Porta,161,8022,1225,2024-01-01T00:00:00,731
+8,Nou Barris,45,Porta,161,8023,1450,2024-01-01T00:00:00,732
+8,Nou Barris,45,Porta,161,8024,1414,2024-01-01T00:00:00,733
+8,Nou Barris,45,Porta,161,8025,1305,2024-01-01T00:00:00,734
+8,Nou Barris,45,Porta,161,8026,1410,2024-01-01T00:00:00,735
+8,Nou Barris,45,Porta,162,8027,1454,2024-01-01T00:00:00,736
+8,Nou Barris,45,Porta,162,8028,1071,2024-01-01T00:00:00,737
+8,Nou Barris,45,Porta,162,8029,1556,2024-01-01T00:00:00,738
+8,Nou Barris,45,Porta,162,8030,1461,2024-01-01T00:00:00,739
+8,Nou Barris,45,Porta,163,8031,1292,2024-01-01T00:00:00,740
+8,Nou Barris,45,Porta,163,8032,1263,2024-01-01T00:00:00,741
+8,Nou Barris,45,Porta,163,8033,1515,2024-01-01T00:00:00,742
+8,Nou Barris,45,Porta,163,8034,1284,2024-01-01T00:00:00,743
+8,Nou Barris,45,Porta,163,8035,7509,2024-01-01T00:00:00,744
+8,Nou Barris,45,Porta,163,8036,1613,2024-01-01T00:00:00,745
+8,Nou Barris,45,Porta,163,8037,1628,2024-01-01T00:00:00,746
+8,Nou Barris,46,el Turó de la Peira,164,8038,1675,2024-01-01T00:00:00,747
+8,Nou Barris,46,el Turó de la Peira,164,8039,1588,2024-01-01T00:00:00,748
+8,Nou Barris,46,el Turó de la Peira,164,8040,1988,2024-01-01T00:00:00,749
+8,Nou Barris,46,el Turó de la Peira,164,8041,2624,2024-01-01T00:00:00,750
+8,Nou Barris,46,el Turó de la Peira,164,8042,1268,2024-01-01T00:00:00,751
+8,Nou Barris,46,el Turó de la Peira,164,8043,1115,2024-01-01T00:00:00,752
+8,Nou Barris,46,el Turó de la Peira,165,8044,1431,2024-01-01T00:00:00,753
+8,Nou Barris,46,el Turó de la Peira,165,8045,1845,2024-01-01T00:00:00,754
+8,Nou Barris,46,el Turó de la Peira,165,8046,1582,2024-01-01T00:00:00,755
+8,Nou Barris,46,el Turó de la Peira,165,8047,1704,2024-01-01T00:00:00,756
+8,Nou Barris,47,Can Peguera,166,8048,981,2024-01-01T00:00:00,757
+8,Nou Barris,47,Can Peguera,166,8049,1199,2024-01-01T00:00:00,758
+8,Nou Barris,48,la Guineueta,167,8050,1373,2024-01-01T00:00:00,759
+8,Nou Barris,48,la Guineueta,167,8051,1349,2024-01-01T00:00:00,760
+8,Nou Barris,48,la Guineueta,167,8052,893,2024-01-01T00:00:00,761
+8,Nou Barris,48,la Guineueta,167,8053,1131,2024-01-01T00:00:00,762
+8,Nou Barris,48,la Guineueta,167,8054,1614,2024-01-01T00:00:00,763
+8,Nou Barris,48,la Guineueta,167,8055,1738,2024-01-01T00:00:00,764
+8,Nou Barris,48,la Guineueta,167,8215,1627,2024-01-01T00:00:00,765
+8,Nou Barris,48,la Guineueta,168,8056,1559,2024-01-01T00:00:00,766
+8,Nou Barris,48,la Guineueta,168,8057,1352,2024-01-01T00:00:00,767
+8,Nou Barris,48,la Guineueta,168,8058,1697,2024-01-01T00:00:00,768
+8,Nou Barris,48,la Guineueta,168,8059,1040,2024-01-01T00:00:00,769
+8,Nou Barris,49,Canyelles,169,8060,1187,2024-01-01T00:00:00,770
+8,Nou Barris,49,Canyelles,169,8061,1628,2024-01-01T00:00:00,771
+8,Nou Barris,49,Canyelles,169,8062,1119,2024-01-01T00:00:00,772
+8,Nou Barris,49,Canyelles,169,8063,1069,2024-01-01T00:00:00,773
+8,Nou Barris,49,Canyelles,169,8064,1794,2024-01-01T00:00:00,774
+8,Nou Barris,50,les Roquetes,170,8065,1806,2024-01-01T00:00:00,775
+8,Nou Barris,50,les Roquetes,170,8066,1686,2024-01-01T00:00:00,776
+8,Nou Barris,50,les Roquetes,170,8067,1906,2024-01-01T00:00:00,777
+8,Nou Barris,50,les Roquetes,170,8068,1910,2024-01-01T00:00:00,778
+8,Nou Barris,50,les Roquetes,170,8069,1574,2024-01-01T00:00:00,779
+8,Nou Barris,50,les Roquetes,171,8070,1524,2024-01-01T00:00:00,780
+8,Nou Barris,50,les Roquetes,171,8071,1782,2024-01-01T00:00:00,781
+8,Nou Barris,50,les Roquetes,171,8072,1207,2024-01-01T00:00:00,782
+8,Nou Barris,50,les Roquetes,171,8073,1924,2024-01-01T00:00:00,783
+8,Nou Barris,50,les Roquetes,171,8074,1622,2024-01-01T00:00:00,784
+8,Nou Barris,51,Verdun,172,8075,1985,2024-01-01T00:00:00,785
+8,Nou Barris,51,Verdun,172,8076,1599,2024-01-01T00:00:00,786
+8,Nou Barris,51,Verdun,172,8077,1440,2024-01-01T00:00:00,787
+8,Nou Barris,51,Verdun,173,8078,1686,2024-01-01T00:00:00,788
+8,Nou Barris,51,Verdun,173,8079,1519,2024-01-01T00:00:00,789
+8,Nou Barris,51,Verdun,173,8080,1609,2024-01-01T00:00:00,790
+8,Nou Barris,51,Verdun,173,8081,1686,2024-01-01T00:00:00,791
+8,Nou Barris,51,Verdun,173,8082,1670,2024-01-01T00:00:00,792
+8,Nou Barris,52,la Prosperitat,174,8083,1322,2024-01-01T00:00:00,793
+8,Nou Barris,52,la Prosperitat,174,8084,1139,2024-01-01T00:00:00,794
+8,Nou Barris,52,la Prosperitat,174,8085,1578,2024-01-01T00:00:00,795
+8,Nou Barris,52,la Prosperitat,174,8086,1714,2024-01-01T00:00:00,796
+8,Nou Barris,52,la Prosperitat,175,8087,1285,2024-01-01T00:00:00,797
+8,Nou Barris,52,la Prosperitat,175,8088,1327,2024-01-01T00:00:00,798
+8,Nou Barris,52,la Prosperitat,175,8089,1202,2024-01-01T00:00:00,799
+8,Nou Barris,52,la Prosperitat,175,8090,1246,2024-01-01T00:00:00,800
+8,Nou Barris,52,la Prosperitat,175,8091,1216,2024-01-01T00:00:00,801
+8,Nou Barris,52,la Prosperitat,176,8092,1001,2024-01-01T00:00:00,802
+8,Nou Barris,52,la Prosperitat,176,8093,1320,2024-01-01T00:00:00,803
+8,Nou Barris,52,la Prosperitat,176,8094,1477,2024-01-01T00:00:00,804
+8,Nou Barris,52,la Prosperitat,176,8095,1120,2024-01-01T00:00:00,805
+8,Nou Barris,52,la Prosperitat,177,8096,1550,2024-01-01T00:00:00,806
+8,Nou Barris,52,la Prosperitat,177,8097,1373,2024-01-01T00:00:00,807
+8,Nou Barris,52,la Prosperitat,177,8098,1297,2024-01-01T00:00:00,808
+8,Nou Barris,52,la Prosperitat,177,8099,1476,2024-01-01T00:00:00,809
+8,Nou Barris,52,la Prosperitat,177,8100,1340,2024-01-01T00:00:00,810
+8,Nou Barris,52,la Prosperitat,177,8101,1690,2024-01-01T00:00:00,811
+8,Nou Barris,52,la Prosperitat,177,8102,1618,2024-01-01T00:00:00,812
+8,Nou Barris,53,la Trinitat Nova,178,8103,1733,2024-01-01T00:00:00,813
+8,Nou Barris,53,la Trinitat Nova,178,8104,1313,2024-01-01T00:00:00,814
+8,Nou Barris,53,la Trinitat Nova,178,8105,1451,2024-01-01T00:00:00,815
+8,Nou Barris,53,la Trinitat Nova,178,8106,1299,2024-01-01T00:00:00,816
+8,Nou Barris,53,la Trinitat Nova,178,8107,1930,2024-01-01T00:00:00,817
+8,Nou Barris,54,Torre Baró,179,8108,2187,2024-01-01T00:00:00,818
+8,Nou Barris,54,Torre Baró,179,8109,932,2024-01-01T00:00:00,819
+8,Nou Barris,55,Ciutat Meridiana,180,8110,2024,2024-01-01T00:00:00,820
+8,Nou Barris,55,Ciutat Meridiana,180,8111,1723,2024-01-01T00:00:00,821
+8,Nou Barris,55,Ciutat Meridiana,180,8112,1747,2024-01-01T00:00:00,822
+8,Nou Barris,55,Ciutat Meridiana,180,8113,1887,2024-01-01T00:00:00,823
+8,Nou Barris,55,Ciutat Meridiana,180,8114,1964,2024-01-01T00:00:00,824
+8,Nou Barris,55,Ciutat Meridiana,180,8115,1745,2024-01-01T00:00:00,825
+8,Nou Barris,56,Vallbona,181,8116,1437,2024-01-01T00:00:00,826
+9,Sant Andreu,57,la Trinitat Vella,182,9001,2779,2024-01-01T00:00:00,827
+9,Sant Andreu,57,la Trinitat Vella,182,9002,2216,2024-01-01T00:00:00,828
+9,Sant Andreu,57,la Trinitat Vella,182,9003,2276,2024-01-01T00:00:00,829
+9,Sant Andreu,57,la Trinitat Vella,182,9004,1707,2024-01-01T00:00:00,830
+9,Sant Andreu,57,la Trinitat Vella,182,9005,1683,2024-01-01T00:00:00,831
+9,Sant Andreu,58,Baró de Viver,183,9006,1297,2024-01-01T00:00:00,832
+9,Sant Andreu,58,Baró de Viver,183,9007,1315,2024-01-01T00:00:00,833
+9,Sant Andreu,59,el Bon Pastor,184,9008,1863,2024-01-01T00:00:00,834
+9,Sant Andreu,59,el Bon Pastor,184,9009,1437,2024-01-01T00:00:00,835
+9,Sant Andreu,59,el Bon Pastor,185,9010,1810,2024-01-01T00:00:00,836
+9,Sant Andreu,59,el Bon Pastor,185,9011,1713,2024-01-01T00:00:00,837
+9,Sant Andreu,59,el Bon Pastor,185,9013,2168,2024-01-01T00:00:00,838
+9,Sant Andreu,59,el Bon Pastor,185,9014,4842,2024-01-01T00:00:00,839
+9,Sant Andreu,59,el Bon Pastor,185,9015,1965,2024-01-01T00:00:00,840
+9,Sant Andreu,60,Sant Andreu,186,9016,1276,2024-01-01T00:00:00,841
+9,Sant Andreu,60,Sant Andreu,186,9017,1567,2024-01-01T00:00:00,842
+9,Sant Andreu,60,Sant Andreu,186,9018,1439,2024-01-01T00:00:00,843
+9,Sant Andreu,60,Sant Andreu,186,9019,2680,2024-01-01T00:00:00,844
+9,Sant Andreu,60,Sant Andreu,186,9020,1154,2024-01-01T00:00:00,845
+9,Sant Andreu,60,Sant Andreu,186,9021,1406,2024-01-01T00:00:00,846
+9,Sant Andreu,60,Sant Andreu,186,9022,1252,2024-01-01T00:00:00,847
+9,Sant Andreu,60,Sant Andreu,186,9023,1197,2024-01-01T00:00:00,848
+9,Sant Andreu,60,Sant Andreu,187,9024,1202,2024-01-01T00:00:00,849
+9,Sant Andreu,60,Sant Andreu,187,9025,1265,2024-01-01T00:00:00,850
+9,Sant Andreu,60,Sant Andreu,187,9026,1478,2024-01-01T00:00:00,851
+9,Sant Andreu,60,Sant Andreu,187,9027,1296,2024-01-01T00:00:00,852
+9,Sant Andreu,60,Sant Andreu,188,9028,1525,2024-01-01T00:00:00,853
+9,Sant Andreu,60,Sant Andreu,188,9029,1098,2024-01-01T00:00:00,854
+9,Sant Andreu,60,Sant Andreu,188,9030,1465,2024-01-01T00:00:00,855
+9,Sant Andreu,60,Sant Andreu,188,9031,1180,2024-01-01T00:00:00,856
+9,Sant Andreu,60,Sant Andreu,189,9032,2210,2024-01-01T00:00:00,857
+9,Sant Andreu,60,Sant Andreu,189,9033,3339,2024-01-01T00:00:00,858
+9,Sant Andreu,60,Sant Andreu,190,9034,1460,2024-01-01T00:00:00,859
+9,Sant Andreu,60,Sant Andreu,190,9035,1546,2024-01-01T00:00:00,860
+9,Sant Andreu,60,Sant Andreu,190,9036,1407,2024-01-01T00:00:00,861
+9,Sant Andreu,60,Sant Andreu,190,9037,1752,2024-01-01T00:00:00,862
+9,Sant Andreu,60,Sant Andreu,190,9038,1737,2024-01-01T00:00:00,863
+9,Sant Andreu,60,Sant Andreu,190,9039,1587,2024-01-01T00:00:00,864
+9,Sant Andreu,60,Sant Andreu,191,9040,1715,2024-01-01T00:00:00,865
+9,Sant Andreu,60,Sant Andreu,191,9041,1409,2024-01-01T00:00:00,866
+9,Sant Andreu,60,Sant Andreu,191,9042,1273,2024-01-01T00:00:00,867
+9,Sant Andreu,60,Sant Andreu,191,9043,1405,2024-01-01T00:00:00,868
+9,Sant Andreu,60,Sant Andreu,191,9044,1534,2024-01-01T00:00:00,869
+9,Sant Andreu,60,Sant Andreu,191,9045,1432,2024-01-01T00:00:00,870
+9,Sant Andreu,60,Sant Andreu,192,9046,1325,2024-01-01T00:00:00,871
+9,Sant Andreu,60,Sant Andreu,192,9047,1610,2024-01-01T00:00:00,872
+9,Sant Andreu,60,Sant Andreu,192,9048,1372,2024-01-01T00:00:00,873
+9,Sant Andreu,60,Sant Andreu,192,9049,1270,2024-01-01T00:00:00,874
+9,Sant Andreu,60,Sant Andreu,192,9050,1562,2024-01-01T00:00:00,875
+9,Sant Andreu,60,Sant Andreu,192,9051,1260,2024-01-01T00:00:00,876
+9,Sant Andreu,60,Sant Andreu,192,9052,1213,2024-01-01T00:00:00,877
+9,Sant Andreu,60,Sant Andreu,192,9053,1685,2024-01-01T00:00:00,878
+9,Sant Andreu,60,Sant Andreu,192,9054,1068,2024-01-01T00:00:00,879
+9,Sant Andreu,61,la Sagrera,193,9055,1832,2024-01-01T00:00:00,880
+9,Sant Andreu,61,la Sagrera,193,9056,1143,2024-01-01T00:00:00,881
+9,Sant Andreu,61,la Sagrera,193,9057,1733,2024-01-01T00:00:00,882
+9,Sant Andreu,61,la Sagrera,193,9058,1544,2024-01-01T00:00:00,883
+9,Sant Andreu,61,la Sagrera,193,9059,1452,2024-01-01T00:00:00,884
+9,Sant Andreu,61,la Sagrera,193,9060,1399,2024-01-01T00:00:00,885
+9,Sant Andreu,61,la Sagrera,193,9156,1249,2024-01-01T00:00:00,886
+9,Sant Andreu,61,la Sagrera,194,9061,1789,2024-01-01T00:00:00,887
+9,Sant Andreu,61,la Sagrera,194,9062,1588,2024-01-01T00:00:00,888
+9,Sant Andreu,61,la Sagrera,195,9063,1136,2024-01-01T00:00:00,889
+9,Sant Andreu,61,la Sagrera,195,9064,1163,2024-01-01T00:00:00,890
+9,Sant Andreu,61,la Sagrera,195,9065,2101,2024-01-01T00:00:00,891
+9,Sant Andreu,61,la Sagrera,195,9066,1400,2024-01-01T00:00:00,892
+9,Sant Andreu,61,la Sagrera,195,9067,1534,2024-01-01T00:00:00,893
+9,Sant Andreu,61,la Sagrera,196,9068,1572,2024-01-01T00:00:00,894
+9,Sant Andreu,61,la Sagrera,196,9069,995,2024-01-01T00:00:00,895
+9,Sant Andreu,61,la Sagrera,196,9070,1816,2024-01-01T00:00:00,896
+9,Sant Andreu,61,la Sagrera,196,9071,1938,2024-01-01T00:00:00,897
+9,Sant Andreu,61,la Sagrera,196,9072,1523,2024-01-01T00:00:00,898
+9,Sant Andreu,61,la Sagrera,196,9073,1485,2024-01-01T00:00:00,899
+9,Sant Andreu,62,el Congrés i els Indians,197,9074,1752,2024-01-01T00:00:00,900
+9,Sant Andreu,62,el Congrés i els Indians,197,9075,1591,2024-01-01T00:00:00,901
+9,Sant Andreu,62,el Congrés i els Indians,197,9076,1485,2024-01-01T00:00:00,902
+9,Sant Andreu,62,el Congrés i els Indians,197,9077,1650,2024-01-01T00:00:00,903
+9,Sant Andreu,62,el Congrés i els Indians,198,9078,1497,2024-01-01T00:00:00,904
+9,Sant Andreu,62,el Congrés i els Indians,198,9079,1688,2024-01-01T00:00:00,905
+9,Sant Andreu,62,el Congrés i els Indians,198,9080,1373,2024-01-01T00:00:00,906
+9,Sant Andreu,62,el Congrés i els Indians,198,9081,1810,2024-01-01T00:00:00,907
+9,Sant Andreu,62,el Congrés i els Indians,198,9082,2099,2024-01-01T00:00:00,908
+9,Sant Andreu,63,Navas,199,9083,1686,2024-01-01T00:00:00,909
+9,Sant Andreu,63,Navas,199,9084,1733,2024-01-01T00:00:00,910
+9,Sant Andreu,63,Navas,199,9085,1775,2024-01-01T00:00:00,911
+9,Sant Andreu,63,Navas,199,9086,1519,2024-01-01T00:00:00,912
+9,Sant Andreu,63,Navas,199,9087,1295,2024-01-01T00:00:00,913
+9,Sant Andreu,63,Navas,199,9088,1962,2024-01-01T00:00:00,914
+9,Sant Andreu,63,Navas,199,9089,1516,2024-01-01T00:00:00,915
+9,Sant Andreu,63,Navas,200,9090,1571,2024-01-01T00:00:00,916
+9,Sant Andreu,63,Navas,200,9091,1863,2024-01-01T00:00:00,917
+9,Sant Andreu,63,Navas,200,9092,1911,2024-01-01T00:00:00,918
+9,Sant Andreu,63,Navas,200,9093,1326,2024-01-01T00:00:00,919
+9,Sant Andreu,63,Navas,200,9094,2062,2024-01-01T00:00:00,920
+9,Sant Andreu,63,Navas,200,9095,2192,2024-01-01T00:00:00,921
+10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,1621,2024-01-01T00:00:00,922
+10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,1894,2024-01-01T00:00:00,923
+10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,1600,2024-01-01T00:00:00,924
+10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,1612,2024-01-01T00:00:00,925
+10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,1614,2024-01-01T00:00:00,926
+10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,1856,2024-01-01T00:00:00,927
+10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,1325,2024-01-01T00:00:00,928
+10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,1745,2024-01-01T00:00:00,929
+10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,1691,2024-01-01T00:00:00,930
+10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,1782,2024-01-01T00:00:00,931
+10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,1219,2024-01-01T00:00:00,932
+10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,1778,2024-01-01T00:00:00,933
+10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,1412,2024-01-01T00:00:00,934
+10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,1463,2024-01-01T00:00:00,935
+10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,1992,2024-01-01T00:00:00,936
+10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,1225,2024-01-01T00:00:00,937
+10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,1678,2024-01-01T00:00:00,938
+10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,1433,2024-01-01T00:00:00,939
+10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,1605,2024-01-01T00:00:00,940
+10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,1475,2024-01-01T00:00:00,941
+10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,1327,2024-01-01T00:00:00,942
+10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,1360,2024-01-01T00:00:00,943
+10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,1445,2024-01-01T00:00:00,944
+10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,1563,2024-01-01T00:00:00,945
+10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,1345,2024-01-01T00:00:00,946
+10,Sant Martí,65,el Clot,205,10026,1698,2024-01-01T00:00:00,947
+10,Sant Martí,65,el Clot,205,10027,1560,2024-01-01T00:00:00,948
+10,Sant Martí,65,el Clot,205,10028,1772,2024-01-01T00:00:00,949
+10,Sant Martí,65,el Clot,205,10029,1448,2024-01-01T00:00:00,950
+10,Sant Martí,65,el Clot,205,10030,1756,2024-01-01T00:00:00,951
+10,Sant Martí,65,el Clot,205,10031,1513,2024-01-01T00:00:00,952
+10,Sant Martí,65,el Clot,206,10032,1348,2024-01-01T00:00:00,953
+10,Sant Martí,65,el Clot,206,10033,867,2024-01-01T00:00:00,954
+10,Sant Martí,65,el Clot,206,10034,1638,2024-01-01T00:00:00,955
+10,Sant Martí,65,el Clot,206,10035,1911,2024-01-01T00:00:00,956
+10,Sant Martí,65,el Clot,206,10036,1423,2024-01-01T00:00:00,957
+10,Sant Martí,65,el Clot,206,10037,1045,2024-01-01T00:00:00,958
+10,Sant Martí,65,el Clot,206,10234,1774,2024-01-01T00:00:00,959
+10,Sant Martí,65,el Clot,207,10038,1693,2024-01-01T00:00:00,960
+10,Sant Martí,65,el Clot,207,10039,1885,2024-01-01T00:00:00,961
+10,Sant Martí,65,el Clot,207,10040,1847,2024-01-01T00:00:00,962
+10,Sant Martí,65,el Clot,207,10041,1589,2024-01-01T00:00:00,963
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,3597,2024-01-01T00:00:00,964
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,3212,2024-01-01T00:00:00,965
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,1597,2024-01-01T00:00:00,966
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,1281,2024-01-01T00:00:00,967
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,1241,2024-01-01T00:00:00,968
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,1660,2024-01-01T00:00:00,969
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,1617,2024-01-01T00:00:00,970
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,1286,2024-01-01T00:00:00,971
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,1548,2024-01-01T00:00:00,972
+10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,1668,2024-01-01T00:00:00,973
+10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,2422,2024-01-01T00:00:00,974
+10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,1715,2024-01-01T00:00:00,975
+10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,955,2024-01-01T00:00:00,976
+10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,2606,2024-01-01T00:00:00,977
+10,Sant Martí,68,el Poblenou,212,10056,1820,2024-01-01T00:00:00,978
+10,Sant Martí,68,el Poblenou,212,10057,1401,2024-01-01T00:00:00,979
+10,Sant Martí,68,el Poblenou,212,10058,1169,2024-01-01T00:00:00,980
+10,Sant Martí,68,el Poblenou,213,10059,1874,2024-01-01T00:00:00,981
+10,Sant Martí,68,el Poblenou,213,10060,1738,2024-01-01T00:00:00,982
+10,Sant Martí,68,el Poblenou,213,10061,1746,2024-01-01T00:00:00,983
+10,Sant Martí,68,el Poblenou,213,10062,1540,2024-01-01T00:00:00,984
+10,Sant Martí,68,el Poblenou,214,10063,1332,2024-01-01T00:00:00,985
+10,Sant Martí,68,el Poblenou,214,10064,1674,2024-01-01T00:00:00,986
+10,Sant Martí,68,el Poblenou,214,10065,1563,2024-01-01T00:00:00,987
+10,Sant Martí,68,el Poblenou,214,10066,2050,2024-01-01T00:00:00,988
+10,Sant Martí,68,el Poblenou,214,10067,1904,2024-01-01T00:00:00,989
+10,Sant Martí,68,el Poblenou,214,10068,1589,2024-01-01T00:00:00,990
+10,Sant Martí,68,el Poblenou,215,10069,2881,2024-01-01T00:00:00,991
+10,Sant Martí,68,el Poblenou,215,10070,1670,2024-01-01T00:00:00,992
+10,Sant Martí,68,el Poblenou,215,10071,1799,2024-01-01T00:00:00,993
+10,Sant Martí,68,el Poblenou,215,10072,2062,2024-01-01T00:00:00,994
+10,Sant Martí,68,el Poblenou,215,10073,1445,2024-01-01T00:00:00,995
+10,Sant Martí,68,el Poblenou,215,10074,1785,2024-01-01T00:00:00,996
+10,Sant Martí,68,el Poblenou,215,10075,1521,2024-01-01T00:00:00,997
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,2273,2024-01-01T00:00:00,998
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,1298,2024-01-01T00:00:00,999
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,1592,2024-01-01T00:00:00,1000
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,1825,2024-01-01T00:00:00,1001
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,2443,2024-01-01T00:00:00,1002
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,1680,2024-01-01T00:00:00,1003
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,2383,2024-01-01T00:00:00,1004
+10,Sant Martí,70,el Besòs i el Maresme,219,10081,2249,2024-01-01T00:00:00,1005
+10,Sant Martí,70,el Besòs i el Maresme,219,10082,2154,2024-01-01T00:00:00,1006
+10,Sant Martí,70,el Besòs i el Maresme,219,10083,2267,2024-01-01T00:00:00,1007
+10,Sant Martí,70,el Besòs i el Maresme,219,10084,1674,2024-01-01T00:00:00,1008
+10,Sant Martí,70,el Besòs i el Maresme,220,10085,2128,2024-01-01T00:00:00,1009
+10,Sant Martí,70,el Besòs i el Maresme,220,10086,2023,2024-01-01T00:00:00,1010
+10,Sant Martí,70,el Besòs i el Maresme,220,10087,1876,2024-01-01T00:00:00,1011
+10,Sant Martí,70,el Besòs i el Maresme,220,10088,1676,2024-01-01T00:00:00,1012
+10,Sant Martí,70,el Besòs i el Maresme,221,10089,7905,2024-01-01T00:00:00,1013
+10,Sant Martí,70,el Besòs i el Maresme,222,10090,1491,2024-01-01T00:00:00,1014
+10,Sant Martí,70,el Besòs i el Maresme,222,10091,2028,2024-01-01T00:00:00,1015
+10,Sant Martí,70,el Besòs i el Maresme,222,10092,1454,2024-01-01T00:00:00,1016
+10,Sant Martí,70,el Besòs i el Maresme,222,10093,1560,2024-01-01T00:00:00,1017
+10,Sant Martí,71,Provençals del Poblenou,223,10094,3337,2024-01-01T00:00:00,1018
+10,Sant Martí,71,Provençals del Poblenou,223,10095,1346,2024-01-01T00:00:00,1019
+10,Sant Martí,71,Provençals del Poblenou,224,10096,1701,2024-01-01T00:00:00,1020
+10,Sant Martí,71,Provençals del Poblenou,224,10097,1603,2024-01-01T00:00:00,1021
+10,Sant Martí,71,Provençals del Poblenou,224,10098,1725,2024-01-01T00:00:00,1022
+10,Sant Martí,71,Provençals del Poblenou,224,10099,1107,2024-01-01T00:00:00,1023
+10,Sant Martí,71,Provençals del Poblenou,224,10100,1692,2024-01-01T00:00:00,1024
+10,Sant Martí,71,Provençals del Poblenou,225,10101,1759,2024-01-01T00:00:00,1025
+10,Sant Martí,71,Provençals del Poblenou,225,10102,2617,2024-01-01T00:00:00,1026
+10,Sant Martí,71,Provençals del Poblenou,225,10103,2155,2024-01-01T00:00:00,1027
+10,Sant Martí,71,Provençals del Poblenou,225,10104,1583,2024-01-01T00:00:00,1028
+10,Sant Martí,71,Provençals del Poblenou,225,10237,887,2024-01-01T00:00:00,1029
+10,Sant Martí,72,Sant Martí de Provençals,226,10105,2147,2024-01-01T00:00:00,1030
+10,Sant Martí,72,Sant Martí de Provençals,226,10106,1035,2024-01-01T00:00:00,1031
+10,Sant Martí,72,Sant Martí de Provençals,226,10107,1522,2024-01-01T00:00:00,1032
+10,Sant Martí,72,Sant Martí de Provençals,226,10108,1338,2024-01-01T00:00:00,1033
+10,Sant Martí,72,Sant Martí de Provençals,226,10109,1637,2024-01-01T00:00:00,1034
+10,Sant Martí,72,Sant Martí de Provençals,226,10110,1962,2024-01-01T00:00:00,1035
+10,Sant Martí,72,Sant Martí de Provençals,227,10111,1307,2024-01-01T00:00:00,1036
+10,Sant Martí,72,Sant Martí de Provençals,227,10112,1492,2024-01-01T00:00:00,1037
+10,Sant Martí,72,Sant Martí de Provençals,227,10113,1246,2024-01-01T00:00:00,1038
+10,Sant Martí,72,Sant Martí de Provençals,227,10114,1562,2024-01-01T00:00:00,1039
+10,Sant Martí,72,Sant Martí de Provençals,228,10115,1416,2024-01-01T00:00:00,1040
+10,Sant Martí,72,Sant Martí de Provençals,228,10116,1862,2024-01-01T00:00:00,1041
+10,Sant Martí,72,Sant Martí de Provençals,228,10117,1275,2024-01-01T00:00:00,1042
+10,Sant Martí,72,Sant Martí de Provençals,228,10118,994,2024-01-01T00:00:00,1043
+10,Sant Martí,72,Sant Martí de Provençals,228,10119,1141,2024-01-01T00:00:00,1044
+10,Sant Martí,72,Sant Martí de Provençals,229,10120,1551,2024-01-01T00:00:00,1045
+10,Sant Martí,72,Sant Martí de Provençals,229,10121,1623,2024-01-01T00:00:00,1046
+10,Sant Martí,72,Sant Martí de Provençals,229,10122,1465,2024-01-01T00:00:00,1047
+10,Sant Martí,73,la Verneda i la Pau,230,10123,1348,2024-01-01T00:00:00,1048
+10,Sant Martí,73,la Verneda i la Pau,230,10124,1055,2024-01-01T00:00:00,1049
+10,Sant Martí,73,la Verneda i la Pau,230,10125,1104,2024-01-01T00:00:00,1050
+10,Sant Martí,73,la Verneda i la Pau,230,10126,1030,2024-01-01T00:00:00,1051
+10,Sant Martí,73,la Verneda i la Pau,230,10127,1023,2024-01-01T00:00:00,1052
+10,Sant Martí,73,la Verneda i la Pau,230,10128,1541,2024-01-01T00:00:00,1053
+10,Sant Martí,73,la Verneda i la Pau,230,10129,1129,2024-01-01T00:00:00,1054
+10,Sant Martí,73,la Verneda i la Pau,231,10130,1211,2024-01-01T00:00:00,1055
+10,Sant Martí,73,la Verneda i la Pau,231,10131,1089,2024-01-01T00:00:00,1056
+10,Sant Martí,73,la Verneda i la Pau,231,10132,1307,2024-01-01T00:00:00,1057
+10,Sant Martí,73,la Verneda i la Pau,231,10133,1765,2024-01-01T00:00:00,1058
+10,Sant Martí,73,la Verneda i la Pau,231,10134,1609,2024-01-01T00:00:00,1059
+10,Sant Martí,73,la Verneda i la Pau,231,10135,1254,2024-01-01T00:00:00,1060
+10,Sant Martí,73,la Verneda i la Pau,232,10136,1413,2024-01-01T00:00:00,1061
+10,Sant Martí,73,la Verneda i la Pau,232,10137,1587,2024-01-01T00:00:00,1062
+10,Sant Martí,73,la Verneda i la Pau,232,10138,2828,2024-01-01T00:00:00,1063
+10,Sant Martí,73,la Verneda i la Pau,232,10139,1716,2024-01-01T00:00:00,1064
+10,Sant Martí,73,la Verneda i la Pau,233,10140,1676,2024-01-01T00:00:00,1065
+10,Sant Martí,73,la Verneda i la Pau,233,10141,1175,2024-01-01T00:00:00,1066
+10,Sant Martí,73,la Verneda i la Pau,233,10142,1676,2024-01-01T00:00:00,1067
+10,Sant Martí,73,la Verneda i la Pau,233,10143,1809,2024-01-01T00:00:00,1068

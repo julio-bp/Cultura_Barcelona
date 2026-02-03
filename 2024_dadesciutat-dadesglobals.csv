@@ -1,0 +1,46 @@
+Any,Categoria,Indicador,Valor,Nota,Font,Codi
+2024,Dades de context,Població de la ciutat de Barcelona,1.702.547,,Font: Institut Nacional d'Estadística. INE,101
+2024,Dades de context,Població de l'Àrea Metropolitana de Barcelona,3.415.104,,Font: AMB i IDESCAT.,102
+2024,Dades de context,% població amb estudis superiors,"36,3",Població de 16 anys i més.,Font: Oficina Municipal de Dades. Ajuntament de Barcelona. Estudis segons INE.,103
+2024,Dades de context,% del pressupost inicial de l'Ajuntament de Barcelona dedicat a cultura,"5,98",,Font: Institut de Cultura. Ajuntament de Barcelona.,104
+2024,Dades de context,Renda Disponible de les Llars per càpita (RDL pc) (euros/any),22.994,Dada 2022.,Font: Oficina Municipal de Dades. Ajuntament de Barcelona.,105
+2024,Dades de context,PIB Barcelona (milions d'€),"107.699,4",,Font: Oficina Municipal de Dades. Ajuntament de Barcelona.,106
+2024,Dades de context,Total univers de turistes (milions),15.6,Inclou turistes en totes les tipologies d’allotjament.,Font: Observatori del Turisme a Barcelona.,108
+2024,Dades de context,Superfície de la ciutat (en quilòmetres quadrats),"101,4",,Font: Oficina Municipal de Dades. Ajuntament de Barcelona.,109
+2024,Dades de context,Nre. d'edificis declarats Patrimoni de la Humanitat per la UNESCO,8,,Font: UNESCO.,111
+2024,Museus i espais d'exposicions,Nre. de museus i grans centres d'exposicions,61,Seus principals (no es compten les subseus).,Font: Institut de Cultura. Ajuntament de Barcelona.,201
+2024,Museus i espais d'exposicions,Nre. d'espais i seus dels museus i centres,81,Inclou totes les seus dels museus descentralitzats.,Font: Institut de Cultura. Ajuntament de Barcelona.,202
+2024,Museus i espais d'exposicions,"Visitants de museus, exposicions i col·leccions",27.102.766,,Font: Institut de Cultura. Ajuntament de Barcelona.,203
+2024,Espais d'arts escèniques,Nre. de teatres,46,Nombre d'institucions teatrals (no es compten el nombre de sales d'exhibició).,Font: Associació d'Empreses de Teatre de Catalunya (ADETCA).,301
+2024,Espais d'arts escèniques,Nre. de sales d'arts escèniques,55,"Inclou sales d'exhibició on es fan representacions teatrals de caràcter professional de manera regular, i amb programació estable (fàbriques de creació, cinemes, auditoris...). No inclou altres tipus d'equipaments (centres cívics, ateneus, etc.) on ocasionalment es fan representacions teatrals (que poden ser professionals o amateurs), ni tampoc el Teatre Grec, un espai a l'aire lliure que s'adequa per a representacions teatrals únicament durant l'estiu, i principalment dins el Grec Festival de Barcelona.",Font: Associació d'Empreses de Teatre de Catalunya (ADETCA).,302
+2024,Espais d'arts escèniques,Espectadors de les sales d'arts escèniques,3.120.296,,Font: Associació d'Empreses de Teatre de Catalunya (ADETCA).,304
+2024,Espais de concerts,Nre. de grans auditoris,3,,Font: Institut de Cultura. Ajuntament de Barcelona.,401
+2024,Espais de concerts,Espectadors dels grans auditoris,1.157.794,,Font: Institut de Cultura. Ajuntament de Barcelona.,402
+2024,Espais de concerts,Nre. de concerts en espais de gran capacitat,99,,Font: BSM Barcelona de Serveis Municipals.,406
+2024,Espais de concerts,Nre. d'assistents als concerts en espais de gran capacitat,1.510.959,,Font: BSM Barcelona de Serveis Municipals.,407
+2024,Sales de cinema i rodatges a la ciutat,Nre. de cinemes,20,,Font: Institut Català de les Empreses Culturals (ICEC).,501
+2024,Sales de cinema i rodatges a la ciutat,Nre. de pantalles de cinema,137,,Font: Institut Català de les Empreses Culturals (ICEC).,502
+2024,Sales de cinema i rodatges a la ciutat,Espectadors de cinema,4.213.383,,Font: Institut Català de les Empreses Culturals (ICEC).,505
+2024,Sales de cinema i rodatges a la ciutat,Nre. de produccions rodades a Barcelona,3.102,,Font: Barcelona Film Commission. Ajuntament de Barcelona.,507
+2024,Sales de cinema i rodatges a la ciutat,Audiovisuals de ficció i dramàtics rodats a Barcelona,516,,Font: Barcelona Film Commission. Ajuntament de Barcelona.,509
+2024,Fàbriques de Creació,Nre. d'equipaments de la xarxa Fàbriques de Creació,11,,Font: Institut de Cultura. Ajuntament de Barcelona.,601
+2024,Fàbriques de Creació,Nre. de projectes de creació de la xarxa Fàbriques de Creació,817,,Font: Institut de Cultura. Ajuntament de Barcelona.,603
+2024,Biblioteques de Barcelona,Nre. de biblioteques de la xarxa de biblioteques públiques,40,,Font: Biblioteques de Barcelona.,701
+2024,Biblioteques de Barcelona,Nre. de biblioteques de la xarxa de biblioteques públiques / 100.000 habitants,"2,35",,Font: Biblioteques de Barcelona.,702
+2024,Biblioteques de Barcelona,Visites a la xarxa Biblioteques de Barcelona,5.633.699,,Font: Biblioteques de Barcelona.,703
+2024,Biblioteques de Barcelona,% de població de Barcelona amb carnet de biblioteca,42,,Font: Biblioteques de Barcelona.,705
+2024,Biblioteques de Barcelona,Puntuació de la gestió municipal en biblioteques (mitjana),"8,0",,Font: Enquesta de Serveis Municipals. Ajuntament de Barcelona.,707
+2024,Llibres,Total de llibres publicats a Barcelona (inclou publicacions digitals),18.808,,"Font: Ministerio de Educación, Cultura y Deporte.",801
+2024,Centres cívics,Nre. de centres cívics,52,,Font: Institut de Cultura. Ajuntament de Barcelona.,901
+2024,Centres cívics,Inscripcions a les activitats de formació (cursos i itineraris),139.632,,Font: Institut de Cultura. Ajuntament de Barcelona.,903
+2024,Centres cívics,Assistents a les activitats de difusió cultural,308.898,,Font: Institut de Cultura. Ajuntament de Barcelona.,905
+2024,Centres cívics,Entitats usuàries (usos totals),5.837,,Font: Institut de Cultura. Ajuntament de Barcelona.,906
+2024,Centres cívics,Puntuació de la gestió municipal en centres cívics (mitjana),7.34,,Font: Enquesta de Serveis Municipals. Ajuntament de Barcelona.,907
+2024,Festivals,Nre. de festivals a la ciutat,190,Dades 2023.,Font: Institut de Cultura. Ajuntament de Barcelona.,1001
+2024,Festivals,Públic presencial als festivals,2.634.474,Dades 2023. Correspon al públic de 146 festivals.,Font: Institut de Cultura. Ajuntament de Barcelona.,1002
+2024,Festivals,Nre. de fires a la ciutat,11,Dades 2023.,Font: Institut de Cultura. Ajuntament de Barcelona.,1003
+2024,Dades de context,Variació interanual del PIB de Barcelona,"3,8",,Font: Oficina Municipal de Dades. Ajuntament de Barcelona.,1061
+2024,Festes,Assistents a les Festes de la Mercè,1.026.815,,Font: Institut de Cultura. Ajuntament de Barcelona.,1100
+2024,Festes,Puntuació de la gestió municipal en festes populars (mitjana),"7,23",,Font: Enquesta de Serveis Municipals. Ajuntament de Barcelona.,1104
+2024,Biblioteques de Barcelona,Préstecs a les biblioteques públiques,3.516.307,Préstecs presencials.,Font: Biblioteques de Barcelona.,7041
+2024,Biblioteques de Barcelona,Préstecs virtuals a les biblioteques públiques,484.109,,Font: Biblioteques de Barcelona.,7042
